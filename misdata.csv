@@ -1,769 +1,769 @@
 Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome,Provincia,nombre,apellido,email
-6,148,72,35,0,33.6,0.627,50,1,Cañar,Paul Mendez,Nguyen,michaelking@example.net
-1,85,66,29,0,26.6,0.351,31,0,Carchi,Chelsea Brown,Webb,emilymontgomery@example.net
-8,183,64,0,0,23.3,0.672,32,1,Tungurahua,Joseph Price,Butler,spencercervantes@example.org
-1,89,66,23,94,28.1,0.167,21,0,Pichincha,Karen Beck,Watkins,anita93@example.net
-0,137,40,35,168,43.1,2.288,33,1,Sucumbíos,Curtis Garcia,Mcdonald,deanhamilton@example.org
-5,116,74,0,0,25.6,0.201,30,0,Sucumbíos,Monique Knox,Russell,yruiz@example.org
-3,78,50,32,88,31.0,0.248,26,1,Santa Elena,Cynthia Smith,Cox,kbenjamin@example.com
-10,115,0,0,0,35.3,0.134,29,0,Orellana,Gregory Hall,Johnson,rnunez@example.com
-2,197,70,45,543,30.5,0.158,53,1,Guayas,Gail Morris,Smith,kingteresa@example.net
-8,125,96,0,0,0.0,0.232,54,1,Imbabura,Rodney Williams,Smith,laragina@example.net
-4,110,92,0,0,37.6,0.191,30,0,Esmeraldas,Mrs. Terri Morgan,Collier,eric53@example.net
-10,168,74,0,0,38.0,0.537,34,1,Santa Elena,Hannah Phillips,Martin,meganmonroe@example.net
-10,139,80,0,0,27.1,1.441,57,0,Azuay,Jason Mills,Taylor,wmitchell@example.com
-1,189,60,23,846,30.1,0.398,59,1,Zamora Chinchipe,Casey Brown,White,jennifer12@example.com
-5,166,72,19,175,25.8,0.587,51,1,Tungurahua,Kimberly Blackburn,Christensen,chaneymichele@example.org
-7,100,0,0,0,30.0,0.484,32,1,Pichincha,Jermaine Rhodes,Davis,mcguireamanda@example.net
-0,118,84,47,230,45.8,0.551,31,1,Sucumbíos,Oscar Jones,Baldwin,melissagreene@example.com
-7,107,74,0,0,29.6,0.254,31,1,Guayas,Jason Williams,Rodriguez,gabrielle61@example.net
-1,103,30,38,83,43.3,0.183,33,0,Morona Santiago,Stephanie Hall,Simpson,ksoto@example.com
-1,115,70,30,96,34.6,0.529,32,1,Imbabura,Nathan Kim,Thompson,parker01@example.net
-3,126,88,41,235,39.3,0.704,27,0,Pastaza,Patricia Fitzpatrick,Ramsey,haasaaron@example.com
-8,99,84,0,0,35.4,0.388,50,0,Santo Domingo de los Tsáchilas,Anita Mann,Hamilton,acastillo@example.net
-7,196,90,0,0,39.8,0.451,41,1,Sucumbíos,Dominique Rice,Jackson,nathansmith@example.com
-9,119,80,35,0,29.0,0.263,29,1,Napo,Tiffany Armstrong,Shelton,mitchell89@example.net
-11,143,94,33,146,36.6,0.254,51,1,Guayas,Mark Washington,Gardner,zgonzalez@example.com
-10,125,70,26,115,31.1,0.205,41,1,El Oro,Phillip Hood,Garrett,david11@example.com
-7,147,76,0,0,39.4,0.257,43,1,Loja,Robert Conley,Donovan,brittanyvelazquez@example.net
-1,97,66,15,140,23.2,0.487,22,0,Cotopaxi,Chris Harris,Jones,jenkinsjared@example.org
-13,145,82,19,110,22.2,0.245,57,0,Chimborazo,Gloria Fox,Mccoy,rogersmichael@example.net
-5,117,92,0,0,34.1,0.337,38,0,Santa Elena,Michael Curtis,Arellano,richard34@example.com
-5,109,75,26,0,36.0,0.546,60,0,Bolívar,Jonathan Rios,Wilson,kimberly50@example.org
-3,158,76,36,245,31.6,0.851,28,1,El Oro,Kevin Palmer,Moreno,gsmith@example.net
-3,88,58,11,54,24.8,0.267,22,0,Galápagos,Troy Warren MD,Chan,hectorchapman@example.net
-6,92,92,0,0,19.9,0.188,28,0,Santo Domingo de los Tsáchilas,Mrs. Denise House,Howard,marvin19@example.com
-10,122,78,31,0,27.6,0.512,45,0,Orellana,Jacob Hull,Boyer,cynthiacampbell@example.net
-4,103,60,33,192,24.0,0.966,33,0,Napo,Larry Lamb,Arias,ddillon@example.org
-11,138,76,0,0,33.2,0.42,35,0,Cotopaxi,Nancy Page,Glenn,marckelly@example.org
-9,102,76,37,0,32.9,0.665,46,1,Pastaza,Ms. Deborah Golden,Lewis,aviladwayne@example.com
-2,90,68,42,0,38.2,0.503,27,1,Sucumbíos,Dwayne Rodriguez,Mills,michael98@example.com
-4,111,72,47,207,37.1,1.39,56,1,Cotopaxi,Amanda Shelton,Harrington,howardstephen@example.com
-3,180,64,25,70,34.0,0.271,26,0,Cotopaxi,Ricardo Roberts,Woods,timothysmith@example.org
-7,133,84,0,0,40.2,0.696,37,0,Napo,Marissa Gonzalez DVM,Ball,matthew29@example.net
-7,106,92,18,0,22.7,0.235,48,0,Azuay,Karen Watson,Lewis,zacharygibson@example.net
-9,171,110,24,240,45.4,0.721,54,1,Esmeraldas,Gregory Weaver,Schmidt,tammyjackson@example.net
-7,159,64,0,0,27.4,0.294,40,0,Zamora Chinchipe,Joshua Phelps,Mosley,tracy40@example.net
-0,180,66,39,0,42.0,1.893,25,1,Tungurahua,Joseph Navarro,Robinson,taylorbeverly@example.org
-1,146,56,0,0,29.7,0.564,29,0,Manabí,Patricia Colon,Garcia,robert33@example.org
-2,71,70,27,0,28.0,0.586,22,0,Bolívar,Kyle Coleman,Rogers,qluna@example.org
-7,103,66,32,0,39.1,0.344,31,1,Santa Elena,Rachel Edwards,Murphy,reynoldsruth@example.com
-7,105,0,0,0,0.0,0.305,24,0,Pichincha,Matthew Benjamin,Moore,jamie57@example.org
-1,103,80,11,82,19.4,0.491,22,0,Manabí,Hayden Merritt,Rios,nicolecrawford@example.org
-1,101,50,15,36,24.2,0.526,26,0,Pastaza,Scott Walsh,Kramer,ann34@example.net
-5,88,66,21,23,24.4,0.342,30,0,Chimborazo,Benjamin Cantu,Carter,dawn43@example.com
-8,176,90,34,300,33.7,0.467,58,1,Chimborazo,Barry Mckinney,Campos,chandlercourtney@example.com
-7,150,66,42,342,34.7,0.718,42,0,Loja,Robert Murphy,Morris,dianayork@example.org
-1,73,50,10,0,23.0,0.248,21,0,Pastaza,Cassie Higgins,Alexander,owensfelicia@example.net
-7,187,68,39,304,37.7,0.254,41,1,Morona Santiago,Allen Smith,Dalton,bfigueroa@example.org
-0,100,88,60,110,46.8,0.962,31,0,Azuay,Sarah Davis,Lucero,jessicalong@example.org
-0,146,82,0,0,40.5,1.781,44,0,Tungurahua,Toni Chaney,Singh,dking@example.org
-0,105,64,41,142,41.5,0.173,22,0,Napo,Eddie Smith,Carr,travis99@example.org
-2,84,0,0,0,0.0,0.304,21,0,Morona Santiago,Brianna Martinez,Ellison,kiaracole@example.org
-8,133,72,0,0,32.9,0.27,39,1,Los Ríos,Jeffrey Williams,Russo,taracontreras@example.com
-5,44,62,0,0,25.0,0.587,36,0,Loja,Amanda Contreras,Thomas,mary24@example.org
-2,141,58,34,128,25.4,0.699,24,0,Tungurahua,James Scott,Rocha,serranojennifer@example.net
-7,114,66,0,0,32.8,0.258,42,1,Morona Santiago,Laura Nichols,Mitchell,randallward@example.com
-5,99,74,27,0,29.0,0.203,32,0,Morona Santiago,Hayley Williams,Richard,philip17@example.org
-0,109,88,30,0,32.5,0.855,38,1,Pastaza,Laura Wall,Mann,icampbell@example.net
-2,109,92,0,0,42.7,0.845,54,0,Pichincha,Claudia Cummings,Wright,philipwilson@example.org
-1,95,66,13,38,19.6,0.334,25,0,Zamora Chinchipe,Shawn Riley,Castillo,kimberly18@example.com
-4,146,85,27,100,28.9,0.189,27,0,Orellana,Brian Wright,Sanders,ann32@example.com
-2,100,66,20,90,32.9,0.867,28,1,Pastaza,Anne Irwin,Morgan,middletonrebecca@example.org
-5,139,64,35,140,28.6,0.411,26,0,Cotopaxi,Joseph Bailey,Lewis,edwinsmith@example.net
-13,126,90,0,0,43.4,0.583,42,1,Chimborazo,Barbara Martinez,Martinez,williamscott@example.org
-4,129,86,20,270,35.1,0.231,23,0,Pichincha,Heidi Rodriguez,Price,laura43@example.org
-1,79,75,30,0,32.0,0.396,22,0,Galápagos,Robert Little,Stevens,cfarrell@example.net
-1,0,48,20,0,24.7,0.14,22,0,Manabí,Gerald Sanchez,Saunders,simmonsdennis@example.org
-7,62,78,0,0,32.6,0.391,41,0,Imbabura,Kimberly Taylor,Chavez,lballard@example.org
-5,95,72,33,0,37.7,0.37,27,0,Cotopaxi,Matthew Campbell,Smith,alexandria03@example.org
-0,131,0,0,0,43.2,0.27,26,1,Santa Elena,Shane Campbell,Hughes,jmanning@example.com
-2,112,66,22,0,25.0,0.307,24,0,Loja,Jeffrey White,Pruitt,stevenkemp@example.net
-3,113,44,13,0,22.4,0.14,22,0,Loja,Victor Gonzalez,Davila,pvasquez@example.net
-2,74,0,0,0,0.0,0.102,22,0,Bolívar,Brent Rodriguez,Young,olsenmegan@example.org
-7,83,78,26,71,29.3,0.767,36,0,Orellana,Brandon Evans,Johnson,amanda81@example.net
-0,101,65,28,0,24.6,0.237,22,0,Morona Santiago,Hayley Martinez,Krueger,melissa35@example.org
-5,137,108,0,0,48.8,0.227,37,1,Carchi,Stacy Gallagher,Welch,edwardscheryl@example.net
-2,110,74,29,125,32.4,0.698,27,0,Imbabura,Edward Costa,Boyd,isanders@example.org
-13,106,72,54,0,36.6,0.178,45,0,Azuay,Aaron Moore,Rodriguez,masseymichael@example.org
-2,100,68,25,71,38.5,0.324,26,0,Esmeraldas,Nicole Carlson,Carter,bautistatimothy@example.com
-15,136,70,32,110,37.1,0.153,43,1,Chimborazo,Lisa Johnson,Gray,katherinetaylor@example.net
-1,107,68,19,0,26.5,0.165,24,0,Galápagos,Kathryn Chavez,Campbell,glennwendy@example.net
-1,80,55,0,0,19.1,0.258,21,0,Cotopaxi,Diana Lee,Jackson,bburgess@example.org
-4,123,80,15,176,32.0,0.443,34,0,El Oro,Nicole York,Flores,ngonzalez@example.org
-7,81,78,40,48,46.7,0.261,42,0,Pichincha,Ricky Simpson,Stein,ozimmerman@example.org
-4,134,72,0,0,23.8,0.277,60,1,Galápagos,Richard Reed,Acosta,josephfrazier@example.com
-2,142,82,18,64,24.7,0.761,21,0,Cotopaxi,Marcus Wilson,Adams,linda92@example.org
-6,144,72,27,228,33.9,0.255,40,0,Zamora Chinchipe,Darrell Carpenter,Cain,paynedanielle@example.org
-2,92,62,28,0,31.6,0.13,24,0,Esmeraldas,Jeffrey Harper,Smith,freddixon@example.com
-1,71,48,18,76,20.4,0.323,22,0,Chimborazo,Ellen Davis,Yu,dunntommy@example.org
-6,93,50,30,64,28.7,0.356,23,0,Loja,Steven Hayes Jr.,Edwards,bruceharris@example.com
-1,122,90,51,220,49.7,0.325,31,1,Sucumbíos,Chelsea Fernandez,Chavez,traciking@example.com
-1,163,72,0,0,39.0,1.222,33,1,Santa Elena,Tanya Garcia,Phillips,pcole@example.org
-1,151,60,0,0,26.1,0.179,22,0,Azuay,William Shannon,Ramirez,josephhale@example.org
-0,125,96,0,0,22.5,0.262,21,0,Napo,John Bush,Fowler,harrisonjessica@example.net
-1,81,72,18,40,26.6,0.283,24,0,Chimborazo,Kelsey Rogers,Mendoza,zscott@example.org
-2,85,65,0,0,39.6,0.93,27,0,Guayas,Ryan Potter,Ross,ramossarah@example.net
-1,126,56,29,152,28.7,0.801,21,0,Chimborazo,Robert Lopez,Williams,bbanks@example.net
-1,96,122,0,0,22.4,0.207,27,0,Cotopaxi,Jeremy Martin,Fuentes,patriciasmith@example.com
-4,144,58,28,140,29.5,0.287,37,0,Imbabura,Sherri Nelson,Arellano,crossjames@example.net
-3,83,58,31,18,34.3,0.336,25,0,Orellana,Raymond Jensen,Garcia,mason64@example.net
-0,95,85,25,36,37.4,0.247,24,1,Cotopaxi,Janice Mccarthy,Howard,adamtanner@example.org
-3,171,72,33,135,33.3,0.199,24,1,Santo Domingo de los Tsáchilas,Jesse Howard,Jones,carneybryan@example.org
-8,155,62,26,495,34.0,0.543,46,1,Cañar,Kathryn Murray,Conley,andrewdavis@example.org
-1,89,76,34,37,31.2,0.192,23,0,Zamora Chinchipe,Tammie Nicholson,Alexander,bjordan@example.org
-4,76,62,0,0,34.0,0.391,25,0,Pastaza,Christopher Rivera,Kim,wesley38@example.net
-7,160,54,32,175,30.5,0.588,39,1,Morona Santiago,Ryan Brown,Obrien,nguyendaniel@example.org
-4,146,92,0,0,31.2,0.539,61,1,Bolívar,Kimberly Craig,Simmons,laurenavery@example.org
-5,124,74,0,0,34.0,0.22,38,1,Chimborazo,Mr. James Rodriguez,Mcgee,gabriel64@example.net
-5,78,48,0,0,33.7,0.654,25,0,Sucumbíos,Stephanie Mcfarland,Cohen,pamelayork@example.net
-4,97,60,23,0,28.2,0.443,22,0,Azuay,Brian Medina,Hernandez,iprice@example.net
-4,99,76,15,51,23.2,0.223,21,0,Zamora Chinchipe,Austin Johnson,Lopez,matthewweaver@example.com
-0,162,76,56,100,53.2,0.759,25,1,Chimborazo,Lisa Figueroa,Ortiz,stephanie00@example.com
-6,111,64,39,0,34.2,0.26,24,0,Bolívar,April Schwartz,Graham,abrooks@example.net
-2,107,74,30,100,33.6,0.404,23,0,Zamora Chinchipe,Arthur Powell,Burch,katherine72@example.org
-5,132,80,0,0,26.8,0.186,69,0,Pichincha,Craig Bond,Wilson,bowengregory@example.com
-0,113,76,0,0,33.3,0.278,23,1,Orellana,Karen Erickson,Navarro,zberry@example.com
-1,88,30,42,99,55.0,0.496,26,1,Pichincha,Jacob Thomas,Dorsey,joshua78@example.com
-3,120,70,30,135,42.9,0.452,30,0,Chimborazo,Crystal Hanson DVM,Fox,petersonricky@example.com
-1,118,58,36,94,33.3,0.261,23,0,Santo Domingo de los Tsáchilas,Gregory Schmidt,Morris,bjames@example.com
-1,117,88,24,145,34.5,0.403,40,1,Chimborazo,Douglas Patterson,Smith,thomas82@example.net
-0,105,84,0,0,27.9,0.741,62,1,Cotopaxi,Jennifer Lucas,Gonzalez,angela07@example.org
-4,173,70,14,168,29.7,0.361,33,1,Napo,Lucas Pope,Rodriguez,michael87@example.net
-9,122,56,0,0,33.3,1.114,33,1,Guayas,Kevin Smith,Wright,markcase@example.com
-3,170,64,37,225,34.5,0.356,30,1,Carchi,Angela Shelton,Sutton,njohnson@example.org
-8,84,74,31,0,38.3,0.457,39,0,Zamora Chinchipe,Garrett Dean,Arnold,nhunt@example.org
-2,96,68,13,49,21.1,0.647,26,0,Sucumbíos,Robert Vazquez,Swanson,jameshamilton@example.net
-2,125,60,20,140,33.8,0.088,31,0,Sucumbíos,Diane Gonzalez,Alvarez,barkeradam@example.net
-0,100,70,26,50,30.8,0.597,21,0,Santa Elena,Megan Jefferson,Martinez,nbishop@example.net
-0,93,60,25,92,28.7,0.532,22,0,Chimborazo,Denise Wood,Hayes,jonathan23@example.net
-0,129,80,0,0,31.2,0.703,29,0,Los Ríos,Bradley Young,Trevino,christina43@example.com
-5,105,72,29,325,36.9,0.159,28,0,Cañar,Stephanie Gibbs,Taylor,kevinanderson@example.org
-3,128,78,0,0,21.1,0.268,55,0,Los Ríos,Richard Santiago,Mills,oscott@example.org
-5,106,82,30,0,39.5,0.286,38,0,Azuay,Nathan Nichols,Rice,todd43@example.net
-2,108,52,26,63,32.5,0.318,22,0,Pichincha,Katherine James,Goodman,cobbalexandra@example.com
-10,108,66,0,0,32.4,0.272,42,1,Esmeraldas,Richard White,Walker,pamela21@example.com
-4,154,62,31,284,32.8,0.237,23,0,Sucumbíos,Richard Williams,Nelson,kimberlyfrost@example.com
-0,102,75,23,0,0.0,0.572,21,0,Esmeraldas,Antonio Anderson,Davis,rickynicholson@example.net
-9,57,80,37,0,32.8,0.096,41,0,Zamora Chinchipe,John Bray,Vazquez,zlopez@example.net
-2,106,64,35,119,30.5,1.4,34,0,Santo Domingo de los Tsáchilas,David Hurley,Navarro,lsmith@example.net
-5,147,78,0,0,33.7,0.218,65,0,Imbabura,James Wilcox,Casey,michellekane@example.org
-2,90,70,17,0,27.3,0.085,22,0,Manabí,Randy Wilson,Meadows,hannahdawson@example.com
-1,136,74,50,204,37.4,0.399,24,0,Morona Santiago,Dominique Dennis,Perry,xflores@example.net
-4,114,65,0,0,21.9,0.432,37,0,Santo Domingo de los Tsáchilas,Hannah Smith,Holden,ugreen@example.net
-9,156,86,28,155,34.3,1.189,42,1,Guayas,Katherine Richard,Edwards,orush@example.net
-1,153,82,42,485,40.6,0.687,23,0,Sucumbíos,Ryan Bailey,Dunn,gentrytracey@example.org
-8,188,78,0,0,47.9,0.137,43,1,El Oro,Derrick Smith,Rodriguez,heather66@example.com
-7,152,88,44,0,50.0,0.337,36,1,Morona Santiago,Craig Rodriguez,Alexander,taylormatthew@example.org
-2,99,52,15,94,24.6,0.637,21,0,Manabí,Jamie Johnson,Sheppard,nlynn@example.net
-1,109,56,21,135,25.2,0.833,23,0,El Oro,Adam Rodriguez,Carlson,alvarezscott@example.com
-2,88,74,19,53,29.0,0.229,22,0,Tungurahua,Elizabeth Jefferson,Williams,millerstanley@example.org
-17,163,72,41,114,40.9,0.817,47,1,Morona Santiago,Jessica Williams,Mejia,saradiaz@example.org
-4,151,90,38,0,29.7,0.294,36,0,El Oro,Molly Potter,Carr,amanda84@example.com
-7,102,74,40,105,37.2,0.204,45,0,Napo,Jeremy Acevedo,Rodriguez,ortegapaul@example.org
-0,114,80,34,285,44.2,0.167,27,0,Tungurahua,Jerry Carter,Barrett,isabel24@example.org
-2,100,64,23,0,29.7,0.368,21,0,Bolívar,Charles Zamora,Stein,billy15@example.com
-0,131,88,0,0,31.6,0.743,32,1,Napo,Rachel Kennedy,Rivera,ahenry@example.net
-6,104,74,18,156,29.9,0.722,41,1,Guayas,Susan Guerrero,Stewart,woodelizabeth@example.org
-3,148,66,25,0,32.5,0.256,22,0,Santo Domingo de los Tsáchilas,Eugene Armstrong,Greene,delacruzscott@example.org
-4,120,68,0,0,29.6,0.709,34,0,Esmeraldas,Andrea Mason,Mitchell,laurawilliams@example.com
-4,110,66,0,0,31.9,0.471,29,0,Carchi,Karen Bishop,Shepard,danielbradley@example.net
-3,111,90,12,78,28.4,0.495,29,0,Orellana,Jeffrey Lopez,Oliver,ehenry@example.org
-6,102,82,0,0,30.8,0.18,36,1,Manabí,Dr. Charles Miller PhD,Green,hoffmanlarry@example.org
-6,134,70,23,130,35.4,0.542,29,1,Cañar,Amy Chang,Jensen,stephenstephens@example.net
-2,87,0,23,0,28.9,0.773,25,0,Esmeraldas,Joshua Wood,Thomas,daniellelambert@example.com
-1,79,60,42,48,43.5,0.678,23,0,Orellana,Frederick Taylor,Turner,smithdebbie@example.com
-2,75,64,24,55,29.7,0.37,33,0,Santa Elena,Michael Kennedy,Bates,mnewton@example.org
-8,179,72,42,130,32.7,0.719,36,1,Cotopaxi,Hayden Ingram,Oneal,nicolepatton@example.net
-6,85,78,0,0,31.2,0.382,42,0,Santo Domingo de los Tsáchilas,Jessica Grant,Huang,roberthoffman@example.net
-0,129,110,46,130,67.1,0.319,26,1,Cañar,Patrick Sims,Stevens,carterkim@example.net
-5,143,78,0,0,45.0,0.19,47,0,Tungurahua,Dustin Taylor,Christensen,abailey@example.org
-5,130,82,0,0,39.1,0.956,37,1,Orellana,Yvonne Ruiz,Taylor,floydjorge@example.org
-6,87,80,0,0,23.2,0.084,32,0,Azuay,Danielle Leach,Singh,richard46@example.com
-0,119,64,18,92,34.9,0.725,23,0,Manabí,Timothy Harris,Munoz,melissasantiago@example.net
-1,0,74,20,23,27.7,0.299,21,0,Guayas,Stephanie Johnson,Pacheco,hannahnichols@example.com
-5,73,60,0,0,26.8,0.268,27,0,Napo,Elizabeth Farrell,Pierce,hartmanbradley@example.com
-4,141,74,0,0,27.6,0.244,40,0,Azuay,David Kramer,Nguyen,richard86@example.com
-7,194,68,28,0,35.9,0.745,41,1,Napo,Adam Flores,Parker,thomashooper@example.net
-8,181,68,36,495,30.1,0.615,60,1,Bolívar,Jose Burton,Landry,qhunter@example.com
-1,128,98,41,58,32.0,1.321,33,1,Imbabura,Bobby Gray,Smith,evansdavid@example.org
-8,109,76,39,114,27.9,0.64,31,1,Morona Santiago,James Clark,Curry,ahiggins@example.org
-5,139,80,35,160,31.6,0.361,25,1,Azuay,Samuel Le,Mckenzie,mendezmiguel@example.net
-3,111,62,0,0,22.6,0.142,21,0,Esmeraldas,Clinton Johnson,Carter,vnelson@example.net
-9,123,70,44,94,33.1,0.374,40,0,Bolívar,Christine Robinson,Reed,olsenmichael@example.net
-7,159,66,0,0,30.4,0.383,36,1,Santo Domingo de los Tsáchilas,Amanda Wong,Duncan,joanna24@example.net
-11,135,0,0,0,52.3,0.578,40,1,Cañar,Peter Gonzalez,Sullivan,pittsjoseph@example.org
-8,85,55,20,0,24.4,0.136,42,0,Pastaza,Austin Johnston,Wright,ramosbarry@example.org
-5,158,84,41,210,39.4,0.395,29,1,El Oro,Jennifer Bishop,Hill,foxjohn@example.com
-1,105,58,0,0,24.3,0.187,21,0,Sucumbíos,Kristin Herman,Nixon,yoderkyle@example.net
-3,107,62,13,48,22.9,0.678,23,1,Manabí,Aaron Tanner,Baker,irojas@example.org
-4,109,64,44,99,34.8,0.905,26,1,Santa Elena,Janet Simmons,Reyes,pcohen@example.com
-4,148,60,27,318,30.9,0.15,29,1,Manabí,Amber Warren,Watson,mccoydwayne@example.com
-0,113,80,16,0,31.0,0.874,21,0,Santa Elena,Kristi Black,Fox,turnerjoseph@example.com
-1,138,82,0,0,40.1,0.236,28,0,Imbabura,Mary Davis,Moran,ubest@example.com
-0,108,68,20,0,27.3,0.787,32,0,Sucumbíos,Chris Smith,Robbins,tammy01@example.com
-2,99,70,16,44,20.4,0.235,27,0,Bolívar,John Finley,Graham,haynescory@example.org
-6,103,72,32,190,37.7,0.324,55,0,Guayas,Gerald Reid,Oconnor,shawmakayla@example.com
-5,111,72,28,0,23.9,0.407,27,0,Galápagos,Cory Gray,Allen,elizabethlove@example.org
-8,196,76,29,280,37.5,0.605,57,1,Zamora Chinchipe,Colin Mckinney,Moore,hpierce@example.org
-5,162,104,0,0,37.7,0.151,52,1,Orellana,Jose Greene,Ward,nprice@example.org
-1,96,64,27,87,33.2,0.289,21,0,Esmeraldas,Jorge Cardenas,Chambers,michelle09@example.org
-7,184,84,33,0,35.5,0.355,41,1,Esmeraldas,Danielle Wilson,Smith,thomas75@example.net
-2,81,60,22,0,27.7,0.29,25,0,Esmeraldas,Jerry Carpenter,Reynolds,knguyen@example.com
-0,147,85,54,0,42.8,0.375,24,0,El Oro,Megan Espinoza,Smith,fosterstephanie@example.net
-7,179,95,31,0,34.2,0.164,60,0,Galápagos,Julie Harris,Lindsey,burnettkathryn@example.com
-0,140,65,26,130,42.6,0.431,24,1,El Oro,Richard Miranda,Soto,jill01@example.org
-9,112,82,32,175,34.2,0.26,36,1,Morona Santiago,John Smith,Gallegos,diazjoshua@example.net
-12,151,70,40,271,41.8,0.742,38,1,Loja,Michael Frazier,Payne,vedwards@example.com
-5,109,62,41,129,35.8,0.514,25,1,Galápagos,Jason Ortiz,Mccormick,omurphy@example.com
-6,125,68,30,120,30.0,0.464,32,0,Napo,Trevor Parker,Parker,amberlucas@example.com
-5,85,74,22,0,29.0,1.224,32,1,Cañar,Katrina Miller,Walter,lori51@example.net
-5,112,66,0,0,37.8,0.261,41,1,Napo,Raymond Russell,Frazier,ronaldchristian@example.com
-0,177,60,29,478,34.6,1.072,21,1,Tungurahua,John Garcia,Oconnell,johnlove@example.org
-2,158,90,0,0,31.6,0.805,66,1,Chimborazo,Lauren Stewart DDS,Miller,washingtonalex@example.net
-7,119,0,0,0,25.2,0.209,37,0,Imbabura,Jesus Mcdaniel,Sanchez,gpeters@example.net
-7,142,60,33,190,28.8,0.687,61,0,Azuay,Rebecca Brooks,Cooper,rbennett@example.net
-1,100,66,15,56,23.6,0.666,26,0,Napo,John Mcguire,Herrera,dwright@example.org
-1,87,78,27,32,34.6,0.101,22,0,El Oro,Ana Booth,Chen,josephshannon@example.net
-0,101,76,0,0,35.7,0.198,26,0,Cañar,Courtney Tanner,Reilly,hansonnicole@example.com
-3,162,52,38,0,37.2,0.652,24,1,Santa Elena,Joseph Garza,Lewis,charleslevy@example.org
-4,197,70,39,744,36.7,2.329,31,0,Santa Elena,Kimberly Mendez,Rice,wdavid@example.org
-0,117,80,31,53,45.2,0.089,24,0,Chimborazo,Charles Wood,Ellis,ortegabrandon@example.org
-4,142,86,0,0,44.0,0.645,22,1,Pastaza,Christopher Frazier,Rice,melissabarnett@example.org
-6,134,80,37,370,46.2,0.238,46,1,Zamora Chinchipe,Zachary Montoya,Adams,estradakathryn@example.org
-1,79,80,25,37,25.4,0.583,22,0,El Oro,Joseph Shelton,Webb,reidryan@example.net
-4,122,68,0,0,35.0,0.394,29,0,Santo Domingo de los Tsáchilas,Kevin Burke,Green,zcole@example.net
-3,74,68,28,45,29.7,0.293,23,0,Orellana,John Larsen,Lin,kimberlywilson@example.org
-4,171,72,0,0,43.6,0.479,26,1,Zamora Chinchipe,Elizabeth Scott,Higgins,joseph19@example.org
-7,181,84,21,192,35.9,0.586,51,1,Manabí,Daniel Gomez,Bryant,simsdonald@example.net
-0,179,90,27,0,44.1,0.686,23,1,Pastaza,Jessica Brown,Gonzalez,marydouglas@example.com
-9,164,84,21,0,30.8,0.831,32,1,Zamora Chinchipe,Kerry Shelton,Thornton,brownjohn@example.com
-0,104,76,0,0,18.4,0.582,27,0,Pastaza,Kristine Harris,Marquez,jonescharles@example.com
-1,91,64,24,0,29.2,0.192,21,0,Carchi,Albert Smith,Frank,michaeljones@example.net
-4,91,70,32,88,33.1,0.446,22,0,Esmeraldas,Sheila Welch,Horton,munozsierra@example.org
-3,139,54,0,0,25.6,0.402,22,1,Galápagos,Diane Burton,Jones,tochoa@example.org
-6,119,50,22,176,27.1,1.318,33,1,Cañar,Jordan Nunez,Owens,annanguyen@example.org
-2,146,76,35,194,38.2,0.329,29,0,El Oro,Paul Williams,Washington,wrightjustin@example.net
-9,184,85,15,0,30.0,1.213,49,1,Loja,Louis Frederick,Simpson,charlesclark@example.net
-10,122,68,0,0,31.2,0.258,41,0,Bolívar,Danielle Haas,Porter,amycolon@example.org
-0,165,90,33,680,52.3,0.427,23,0,Orellana,Michael Moore,Sloan,timothymartinez@example.org
-9,124,70,33,402,35.4,0.282,34,0,Chimborazo,Scott Bryant,Houston,bdavis@example.org
-1,111,86,19,0,30.1,0.143,23,0,Santa Elena,Timothy Brown,Strickland,ronald78@example.net
-9,106,52,0,0,31.2,0.38,42,0,Imbabura,Dana Miranda,Garcia,rthompson@example.org
-2,129,84,0,0,28.0,0.284,27,0,Chimborazo,Dominique Yu,Dawson,ivillarreal@example.net
-2,90,80,14,55,24.4,0.249,24,0,Santa Elena,Anna Williams,Lambert,griffinpaul@example.com
-0,86,68,32,0,35.8,0.238,25,0,Loja,Briana Murillo,West,barkerthomas@example.org
-12,92,62,7,258,27.6,0.926,44,1,Pastaza,Tabitha Acosta,Clayton,evanacevedo@example.net
-1,113,64,35,0,33.6,0.543,21,1,Bolívar,Billy Bailey,Flowers,christopher41@example.net
-3,111,56,39,0,30.1,0.557,30,0,Azuay,Elizabeth Smith,Mathews,howekaitlyn@example.com
-2,114,68,22,0,28.7,0.092,25,0,Chimborazo,David Golden,Robinson,stephen51@example.org
-1,193,50,16,375,25.9,0.655,24,0,Esmeraldas,Christopher Ramirez,Anderson,denisedavis@example.com
-11,155,76,28,150,33.3,1.353,51,1,Esmeraldas,Nathan Bond,Barajas,bryantpriscilla@example.net
-3,191,68,15,130,30.9,0.299,34,0,Guayas,Helen Ward,Rollins,williamsdavid@example.org
-3,141,0,0,0,30.0,0.761,27,1,Pastaza,Christopher White,Johnson,jason08@example.net
-4,95,70,32,0,32.1,0.612,24,0,Bolívar,Judith Tran,Jordan,garciarobert@example.com
-3,142,80,15,0,32.4,0.2,63,0,Tungurahua,Sierra Clark,Ryan,murphygilbert@example.net
-4,123,62,0,0,32.0,0.226,35,1,Bolívar,Justin Campbell,West,eschwartz@example.net
-5,96,74,18,67,33.6,0.997,43,0,Morona Santiago,Seth Massey,Walker,gregory16@example.net
-0,138,0,0,0,36.3,0.933,25,1,El Oro,Andrea Fowler,Wells,caleb68@example.org
-2,128,64,42,0,40.0,1.101,24,0,Cañar,Elizabeth Bennett,Coleman,anthonylucas@example.net
-0,102,52,0,0,25.1,0.078,21,0,Pastaza,Sara Goodman,Boyer,brian33@example.net
-2,146,0,0,0,27.5,0.24,28,1,Loja,Kelly Caldwell,Larson,qjenkins@example.net
-10,101,86,37,0,45.6,1.136,38,1,Loja,Molly Quinn,Huerta,martinezdebbie@example.org
-2,108,62,32,56,25.2,0.128,21,0,Cañar,Yvonne Pineda,Payne,logantravis@example.com
-3,122,78,0,0,23.0,0.254,40,0,Loja,Jesse Brown DVM,Edwards,margaretroberson@example.org
-1,71,78,50,45,33.2,0.422,21,0,Zamora Chinchipe,Robert Bennett,Mendoza,choward@example.com
-13,106,70,0,0,34.2,0.251,52,0,Imbabura,Karen Smith,Gray,kparsons@example.org
-2,100,70,52,57,40.5,0.677,25,0,Chimborazo,Mr. Brian Jones,Hernandez,farrelllisa@example.org
-7,106,60,24,0,26.5,0.296,29,1,Imbabura,Karen Smith,Smith,jessicalopez@example.net
-0,104,64,23,116,27.8,0.454,23,0,Los Ríos,Joe Hayes,Smith,christopherkelly@example.org
-5,114,74,0,0,24.9,0.744,57,0,Carchi,Sean Wright,Garcia,wesleywilliams@example.org
-2,108,62,10,278,25.3,0.881,22,0,Pichincha,Robyn Larson,Hall,sarah41@example.net
-0,146,70,0,0,37.9,0.334,28,1,Morona Santiago,Michael Baxter,Hanson,susan43@example.com
-10,129,76,28,122,35.9,0.28,39,0,Cañar,Mr. Jason Little,Williams,michael77@example.net
-7,133,88,15,155,32.4,0.262,37,0,Morona Santiago,Thomas Moreno,Bryan,emmabriggs@example.org
-7,161,86,0,0,30.4,0.165,47,1,Esmeraldas,Allen Mitchell,Wilson,brenda01@example.org
-2,108,80,0,0,27.0,0.259,52,1,Bolívar,Vanessa Ortega,Mcbride,josephwilliams@example.org
-7,136,74,26,135,26.0,0.647,51,0,Carchi,Daniel Morales,Rhodes,nwells@example.org
-5,155,84,44,545,38.7,0.619,34,0,Santo Domingo de los Tsáchilas,Richard Payne,Dunn,calhounvictoria@example.net
-1,119,86,39,220,45.6,0.808,29,1,Galápagos,Christine Fowler,Gillespie,ccombs@example.com
-4,96,56,17,49,20.8,0.34,26,0,Imbabura,Bryan Baker,Haynes,dalewalters@example.org
-5,108,72,43,75,36.1,0.263,33,0,Zamora Chinchipe,Donna Taylor,Coffey,burkeangela@example.com
-0,78,88,29,40,36.9,0.434,21,0,Esmeraldas,Wanda Washington,Gilbert,michelle12@example.org
-0,107,62,30,74,36.6,0.757,25,1,Orellana,Amanda Jordan,Joseph,mperkins@example.org
-2,128,78,37,182,43.3,1.224,31,1,Sucumbíos,Billy Smith,Hunt,madisondunlap@example.org
-1,128,48,45,194,40.5,0.613,24,1,Zamora Chinchipe,Dr. Karen Davis,Ferrell,frusso@example.org
-0,161,50,0,0,21.9,0.254,65,0,Tungurahua,Jack Villegas,Chambers,yrobinson@example.com
-6,151,62,31,120,35.5,0.692,28,0,Cotopaxi,Jimmy Drake,Hoffman,harveyfrank@example.com
-2,146,70,38,360,28.0,0.337,29,1,Manabí,Deborah Obrien,Coleman,zrobinson@example.net
-0,126,84,29,215,30.7,0.52,24,0,Cañar,Michael Pham,Hicks,gdavis@example.org
-14,100,78,25,184,36.6,0.412,46,1,Orellana,Logan George,Peters,greenechase@example.org
-8,112,72,0,0,23.6,0.84,58,0,Sucumbíos,Jacqueline Carpenter,White,stevepena@example.com
-0,167,0,0,0,32.3,0.839,30,1,Imbabura,Matthew Scott,Glass,sherry46@example.net
-2,144,58,33,135,31.6,0.422,25,1,Galápagos,Rachel Potts,Hester,talexander@example.org
-5,77,82,41,42,35.8,0.156,35,0,Loja,Karen Guzman,Brown,dhopkins@example.net
-5,115,98,0,0,52.9,0.209,28,1,Manabí,Leroy Fisher,Townsend,njones@example.net
-3,150,76,0,0,21.0,0.207,37,0,Tungurahua,Alexander Roberson,Chandler,april70@example.org
-2,120,76,37,105,39.7,0.215,29,0,Pastaza,Patricia Hoover,Allen,dianemcclain@example.net
-10,161,68,23,132,25.5,0.326,47,1,Cotopaxi,Kayla Walsh,Robinson,sshaw@example.net
-0,137,68,14,148,24.8,0.143,21,0,Carchi,Robert Fritz,Morgan,dunnveronica@example.org
-0,128,68,19,180,30.5,1.391,25,1,Imbabura,Michelle Harrison,Zimmerman,ajenkins@example.com
-2,124,68,28,205,32.9,0.875,30,1,Azuay,Jennifer Oneal,Lopez,wsmith@example.net
-6,80,66,30,0,26.2,0.313,41,0,Pastaza,Michael Norman,Hogan,jennifermartin@example.org
-0,106,70,37,148,39.4,0.605,22,0,Esmeraldas,April Shannon,Rose,pnewton@example.net
-2,155,74,17,96,26.6,0.433,27,1,Azuay,Angel Parker,Jimenez,audreyhernandez@example.com
-3,113,50,10,85,29.5,0.626,25,0,Los Ríos,Andrew Jackson,Peterson,crossmatthew@example.net
-7,109,80,31,0,35.9,1.127,43,1,Pichincha,Cheryl Pugh,Miller,jonescaleb@example.net
-2,112,68,22,94,34.1,0.315,26,0,Morona Santiago,Scott Williams,Swanson,sandra81@example.net
-3,99,80,11,64,19.3,0.284,30,0,El Oro,Joseph Hebert,Mueller,qharvey@example.net
-3,182,74,0,0,30.5,0.345,29,1,Cotopaxi,Matthew Combs,Warner,wrightbarry@example.com
-3,115,66,39,140,38.1,0.15,28,0,Chimborazo,Julie Lee,Horn,kevin57@example.org
-6,194,78,0,0,23.5,0.129,59,1,Bolívar,Michelle Watts,Calhoun,loganbush@example.com
-4,129,60,12,231,27.5,0.527,31,0,Pastaza,Ashley Brown,Evans,briancunningham@example.com
-3,112,74,30,0,31.6,0.197,25,1,Cañar,Sara Rodgers,Martinez,leah92@example.org
-0,124,70,20,0,27.4,0.254,36,1,Cañar,April Hendricks,Hall,robert90@example.org
-13,152,90,33,29,26.8,0.731,43,1,Santa Elena,Robert Chang,Garcia,derekwright@example.net
-2,112,75,32,0,35.7,0.148,21,0,Pastaza,Jasmine Payne,Smith,zedwards@example.net
-1,157,72,21,168,25.6,0.123,24,0,Chimborazo,Katie Andrews,Bradley,brittany35@example.net
-1,122,64,32,156,35.1,0.692,30,1,Zamora Chinchipe,Carla Velazquez,Ward,pamela17@example.com
-10,179,70,0,0,35.1,0.2,37,0,Imbabura,Maria Jones,Lynch,brooke52@example.net
-2,102,86,36,120,45.5,0.127,23,1,Zamora Chinchipe,Suzanne Cooper,Obrien,rose82@example.net
-6,105,70,32,68,30.8,0.122,37,0,Santa Elena,Anthony Smith,Fisher,kimberly20@example.com
-8,118,72,19,0,23.1,1.476,46,0,Orellana,Terry Watkins,Green,annajohnson@example.org
-2,87,58,16,52,32.7,0.166,25,0,Santa Elena,Phillip Mason,Williams,gonzalezchristopher@example.org
-1,180,0,0,0,43.3,0.282,41,1,Pastaza,Benjamin Morales,Valdez,amandatucker@example.net
-12,106,80,0,0,23.6,0.137,44,0,Guayas,Rebecca Williams,Morris,qfrank@example.com
-1,95,60,18,58,23.9,0.26,22,0,Napo,Mr. Stephen Vasquez,Duncan,ericadavidson@example.org
-0,165,76,43,255,47.9,0.259,26,0,Esmeraldas,Kelsey Shelton,Cox,rhondadickson@example.org
-0,117,0,0,0,33.8,0.932,44,0,Napo,Ian Williams,Webb,larsonalex@example.org
-5,115,76,0,0,31.2,0.343,44,1,Cotopaxi,Daniel Sparks,Smith,waltonmichelle@example.com
-9,152,78,34,171,34.2,0.893,33,1,Chimborazo,Joseph Kline,Swanson,regina22@example.net
-7,178,84,0,0,39.9,0.331,41,1,Santa Elena,Oscar May,Ball,sotojohn@example.org
-1,130,70,13,105,25.9,0.472,22,0,Orellana,Dean West,Day,jeremy14@example.net
-1,95,74,21,73,25.9,0.673,36,0,Santa Elena,Amy Smith,Perkins,josephnunez@example.org
-1,0,68,35,0,32.0,0.389,22,0,Imbabura,Lynn Gonzalez,Jacobs,natalie99@example.net
-5,122,86,0,0,34.7,0.29,33,0,Chimborazo,Lauren Rojas,Frederick,stonejerry@example.com
-8,95,72,0,0,36.8,0.485,57,0,Bolívar,Jordan Martin,Garcia,james71@example.net
-8,126,88,36,108,38.5,0.349,49,0,Imbabura,Audrey Salazar,King,davidwilliams@example.net
-1,139,46,19,83,28.7,0.654,22,0,Esmeraldas,Corey Bowen,Bond,xmason@example.com
-3,116,0,0,0,23.5,0.187,23,0,Santa Elena,Patrick Duncan,Cohen,timothy98@example.net
-3,99,62,19,74,21.8,0.279,26,0,Carchi,Jerry Nixon,Becker,shellyacevedo@example.net
-5,0,80,32,0,41.0,0.346,37,1,Santa Elena,Lori Mcbride,Nelson,barreratodd@example.com
-4,92,80,0,0,42.2,0.237,29,0,Guayas,Rodney Smith,Allen,davidquinn@example.net
-4,137,84,0,0,31.2,0.252,30,0,Morona Santiago,Wanda Wiley,Adkins,johnbolton@example.org
-3,61,82,28,0,34.4,0.243,46,0,Sucumbíos,Ryan Solomon,Baker,vanessa58@example.net
-1,90,62,12,43,27.2,0.58,24,0,Azuay,Chloe Gardner,Johnson,jennifer45@example.net
-3,90,78,0,0,42.7,0.559,21,0,El Oro,Laura Leonard,Thompson,max53@example.org
-9,165,88,0,0,30.4,0.302,49,1,Orellana,Derrick Mcdonald,Lee,garciajames@example.net
-1,125,50,40,167,33.3,0.962,28,1,Azuay,Danny Gonzales,Cruz,ashley73@example.com
-13,129,0,30,0,39.9,0.569,44,1,Napo,Jenna Delgado,Garcia,pagebilly@example.org
-12,88,74,40,54,35.3,0.378,48,0,Cotopaxi,Jessica Moore,Dunn,brittany30@example.com
-1,196,76,36,249,36.5,0.875,29,1,Chimborazo,Bruce Henry,Mcdowell,iwallace@example.org
-5,189,64,33,325,31.2,0.583,29,1,Chimborazo,Christine Ramirez,Burgess,cdyer@example.org
-5,158,70,0,0,29.8,0.207,63,0,Guayas,Pamela Lang,Clark,wmorris@example.com
-5,103,108,37,0,39.2,0.305,65,0,Imbabura,Linda Sosa,Myers,burtonjoseph@example.com
-4,146,78,0,0,38.5,0.52,67,1,Morona Santiago,Matthew Bell,Gonzalez,brian05@example.net
-4,147,74,25,293,34.9,0.385,30,0,Napo,Nicholas Russell,Chambers,yflowers@example.com
-5,99,54,28,83,34.0,0.499,30,0,Cotopaxi,Zachary Ayers,Smith,jonesvanessa@example.com
-6,124,72,0,0,27.6,0.368,29,1,Tungurahua,Matthew Ward,Guerrero,tjohnson@example.com
-0,101,64,17,0,21.0,0.252,21,0,Pastaza,Susan Willis,Williams,petersscott@example.com
-3,81,86,16,66,27.5,0.306,22,0,Cañar,Ryan Scott,Hatfield,josephhayes@example.com
-1,133,102,28,140,32.8,0.234,45,1,Zamora Chinchipe,Cathy Valdez,Martin,hayley08@example.org
-3,173,82,48,465,38.4,2.137,25,1,Morona Santiago,Jose Garcia,Mccann,laura42@example.org
-0,118,64,23,89,0.0,1.731,21,0,Napo,Richard Jones,Clark,teresa74@example.org
-0,84,64,22,66,35.8,0.545,21,0,Chimborazo,Austin Clark,Elliott,jennifer23@example.net
-2,105,58,40,94,34.9,0.225,25,0,Chimborazo,Tammy Wilson,Caldwell,owenskayla@example.org
-2,122,52,43,158,36.2,0.816,28,0,Chimborazo,Matthew King,Jones,bartonkevin@example.com
-12,140,82,43,325,39.2,0.528,58,1,Morona Santiago,Benjamin Sherman,Holland,hughesjennifer@example.org
-0,98,82,15,84,25.2,0.299,22,0,Pichincha,Shawn Brown,Dougherty,wellswilliam@example.org
-1,87,60,37,75,37.2,0.509,22,0,Sucumbíos,Andrew Harris,Herring,albert78@example.net
-4,156,75,0,0,48.3,0.238,32,1,Loja,Andrew Walters,Blackburn,turnermichael@example.com
-0,93,100,39,72,43.4,1.021,35,0,Guayas,Mark Howard,Smith,roweelizabeth@example.com
-1,107,72,30,82,30.8,0.821,24,0,Galápagos,Rodney Phillips,Mcconnell,whernandez@example.org
-0,105,68,22,0,20.0,0.236,22,0,Santa Elena,Kelly Jackson,Allen,jennifer93@example.org
-1,109,60,8,182,25.4,0.947,21,0,El Oro,Justin Martin,Stewart,keithbutler@example.com
-1,90,62,18,59,25.1,1.268,25,0,Los Ríos,Devon Stevens,Brady,wschultz@example.org
-1,125,70,24,110,24.3,0.221,25,0,Carchi,Shelley Ramirez,Humphrey,christopher84@example.com
-1,119,54,13,50,22.3,0.205,24,0,Loja,Ronnie Young,Turner,ewhite@example.com
-5,116,74,29,0,32.3,0.66,35,1,Esmeraldas,Brandon Morales,Oliver,matthewlucas@example.net
-8,105,100,36,0,43.3,0.239,45,1,Orellana,William Khan,Jackson,michael84@example.org
-5,144,82,26,285,32.0,0.452,58,1,Manabí,Nancy Hooper,Walters,robertmoore@example.com
-3,100,68,23,81,31.6,0.949,28,0,Manabí,Cody Thompson,Kirk,sbarnett@example.net
-1,100,66,29,196,32.0,0.444,42,0,Pastaza,Danny Hampton,Allen,stantonthomas@example.org
-5,166,76,0,0,45.7,0.34,27,1,Manabí,Mark Patel,Krause,tramos@example.org
-1,131,64,14,415,23.7,0.389,21,0,Bolívar,Amy Hoffman,Arroyo,julia48@example.net
-4,116,72,12,87,22.1,0.463,37,0,Tungurahua,Isaac Cain,Fernandez,brian58@example.com
-4,158,78,0,0,32.9,0.803,31,1,Pichincha,Christopher Rodriguez,Robinson,kevincook@example.org
-2,127,58,24,275,27.7,1.6,25,0,Manabí,Andrew Murray,Lam,vasquezscott@example.com
-3,96,56,34,115,24.7,0.944,39,0,Manabí,Paula Wells,Brady,jsteele@example.net
-0,131,66,40,0,34.3,0.196,22,1,Bolívar,Allen Long,Fletcher,mary08@example.org
-3,82,70,0,0,21.1,0.389,25,0,El Oro,Amy Hayes,Hudson,teresamosley@example.net
-3,193,70,31,0,34.9,0.241,25,1,Galápagos,Jessica Elliott,Lawson,lcoleman@example.net
-4,95,64,0,0,32.0,0.161,31,1,Pichincha,Anthony Harrell,Ruiz,jasmineberry@example.net
-6,137,61,0,0,24.2,0.151,55,0,Pastaza,Angela Johnson,Brown,martinchristina@example.net
-5,136,84,41,88,35.0,0.286,35,1,Morona Santiago,Richard Martin,Thompson,cantuchase@example.com
-9,72,78,25,0,31.6,0.28,38,0,Napo,Aaron Greene,Neal,turnerkathryn@example.com
-5,168,64,0,0,32.9,0.135,41,1,Esmeraldas,Paul Anderson,Parker,fletcherdaniel@example.net
-2,123,48,32,165,42.1,0.52,26,0,Loja,Melinda Lee,Hudson,kelli06@example.net
-4,115,72,0,0,28.9,0.376,46,1,Morona Santiago,Donald Davis,Smith,nelsonralph@example.com
-0,101,62,0,0,21.9,0.336,25,0,Loja,Kathleen Cooper,Church,juliepeterson@example.com
-8,197,74,0,0,25.9,1.191,39,1,Galápagos,George Lee,Valenzuela,kevinwallace@example.net
-1,172,68,49,579,42.4,0.702,28,1,Cotopaxi,Michael James,Thompson,jonathanbennett@example.org
-6,102,90,39,0,35.7,0.674,28,0,Carchi,Daniel Mcgrath,Bond,danieljacobs@example.net
-1,112,72,30,176,34.4,0.528,25,0,Tungurahua,Sergio Diaz,Grant,david46@example.com
-1,143,84,23,310,42.4,1.076,22,0,Pichincha,Lauren Craig,Campos,christophertaylor@example.net
-1,143,74,22,61,26.2,0.256,21,0,Galápagos,Lisa Barnes,Jackson,vsmith@example.net
-0,138,60,35,167,34.6,0.534,21,1,Napo,Anthony Smith,Kline,codyfreeman@example.org
-3,173,84,33,474,35.7,0.258,22,1,Cotopaxi,Sylvia Garza,Escobar,simmonsheather@example.net
-1,97,68,21,0,27.2,1.095,22,0,Sucumbíos,Adrian Kirby,Cervantes,calebyoung@example.com
-4,144,82,32,0,38.5,0.554,37,1,Pastaza,Steven Hall,Andrews,baguirre@example.com
-1,83,68,0,0,18.2,0.624,27,0,Chimborazo,Loretta Ramirez MD,Ortiz,alyssawiley@example.net
-3,129,64,29,115,26.4,0.219,28,1,Pichincha,Diane Buchanan,Rasmussen,emily55@example.org
-1,119,88,41,170,45.3,0.507,26,0,Napo,Derek Jones,Boyd,copelandjacqueline@example.org
-2,94,68,18,76,26.0,0.561,21,0,Imbabura,Aimee Wilson,Bennett,fitzgeraldjay@example.net
-0,102,64,46,78,40.6,0.496,21,0,Cotopaxi,Sarah Mclaughlin,Blevins,bmcgrath@example.org
-2,115,64,22,0,30.8,0.421,21,0,Sucumbíos,Javier Singleton,Decker,lisa24@example.org
-8,151,78,32,210,42.9,0.516,36,1,Bolívar,Kathy Hunt,Alvarez,crystal95@example.com
-4,184,78,39,277,37.0,0.264,31,1,Esmeraldas,Ashley Reyes,Trevino,mathisrichard@example.net
-0,94,0,0,0,0.0,0.256,25,0,Orellana,Christine Barrett,Baxter,daniel44@example.net
-1,181,64,30,180,34.1,0.328,38,1,Manabí,Mariah Pruitt,Schultz,smithphillip@example.org
-0,135,94,46,145,40.6,0.284,26,0,Napo,Christina Murray,Osborn,megan34@example.org
-1,95,82,25,180,35.0,0.233,43,1,Sucumbíos,Julia Rose,Delgado,antonio45@example.com
-2,99,0,0,0,22.2,0.108,23,0,Esmeraldas,Rachel Williams,Silva,shari07@example.org
-3,89,74,16,85,30.4,0.551,38,0,Tungurahua,Angela Santana,Hayes,cartercheryl@example.com
-1,80,74,11,60,30.0,0.527,22,0,Manabí,Brian Silva,Adams,donaldgordon@example.org
-2,139,75,0,0,25.6,0.167,29,0,Cotopaxi,Lauren Cooper,Odonnell,ryanmoreno@example.com
-1,90,68,8,0,24.5,1.138,36,0,Loja,Kyle Bennett,Jacobs,john11@example.net
-0,141,0,0,0,42.4,0.205,29,1,Azuay,Luis Garrison,Perry,greenlaura@example.org
-12,140,85,33,0,37.4,0.244,41,0,Tungurahua,Gabrielle Martinez,Jones,stacy43@example.org
-5,147,75,0,0,29.9,0.434,28,0,Galápagos,Jon Gardner,Bradshaw,kellyarthur@example.org
-1,97,70,15,0,18.2,0.147,21,0,Manabí,Tricia Sullivan,Whitaker,nicoleriggs@example.net
-6,107,88,0,0,36.8,0.727,31,0,Guayas,Heidi Braun,Bailey,chase68@example.org
-0,189,104,25,0,34.3,0.435,41,1,Pichincha,Suzanne Wallace,Smith,alex27@example.org
-2,83,66,23,50,32.2,0.497,22,0,Guayas,Reginald Skinner,Howell,rhobbs@example.com
-4,117,64,27,120,33.2,0.23,24,0,Loja,Suzanne Sanchez,Mcguire,stephenfoster@example.com
-8,108,70,0,0,30.5,0.955,33,1,Tungurahua,Rachel Palmer,Rivera,qmiles@example.net
-4,117,62,12,0,29.7,0.38,30,1,Imbabura,Crystal Walker,Weaver,prodriguez@example.org
-0,180,78,63,14,59.4,2.42,25,1,Galápagos,Jenna Johnson,Williams,kellyrandolph@example.net
-1,100,72,12,70,25.3,0.658,28,0,Sucumbíos,William Garcia,Butler,reynoldsisabella@example.org
-0,95,80,45,92,36.5,0.33,26,0,Zamora Chinchipe,John Kaufman,Holmes,travisjohnson@example.org
-0,104,64,37,64,33.6,0.51,22,1,Galápagos,Gregory Smith,Allen,karenjohnson@example.org
-0,120,74,18,63,30.5,0.285,26,0,Morona Santiago,Matthew Boyd,Massey,bowersraymond@example.net
-1,82,64,13,95,21.2,0.415,23,0,Azuay,Aaron Nelson,Moore,marytaylor@example.net
-2,134,70,0,0,28.9,0.542,23,1,Zamora Chinchipe,Susan Henson,Richardson,jwebb@example.com
-0,91,68,32,210,39.9,0.381,25,0,Imbabura,Jessica Pierce,Rogers,theodorewilson@example.net
-2,119,0,0,0,19.6,0.832,72,0,Zamora Chinchipe,Toni Phillips,Smith,gregoryvincent@example.com
-2,100,54,28,105,37.8,0.498,24,0,Cañar,Andrea Cooper DDS,Hernandez,lparsons@example.net
-14,175,62,30,0,33.6,0.212,38,1,Napo,David Barron,Reynolds,raymondjones@example.net
-1,135,54,0,0,26.7,0.687,62,0,Los Ríos,Joseph Fowler,Collins,davidbenjamin@example.net
-5,86,68,28,71,30.2,0.364,24,0,Bolívar,Colleen Griffith,Williams,josephjohnson@example.com
-10,148,84,48,237,37.6,1.001,51,1,Tungurahua,Kevin Palmer,Cole,angela60@example.org
-9,134,74,33,60,25.9,0.46,81,0,Tungurahua,Nicole Leach,Galloway,sbarrett@example.org
-9,120,72,22,56,20.8,0.733,48,0,Santo Domingo de los Tsáchilas,Joseph Gardner,Buckley,alex48@example.org
-1,71,62,0,0,21.8,0.416,26,0,Tungurahua,Sandra Huber,Johnson,vanessa70@example.com
-8,74,70,40,49,35.3,0.705,39,0,Pastaza,Brenda Warren,Kim,ymoreno@example.net
-5,88,78,30,0,27.6,0.258,37,0,Santa Elena,Ronald Marsh,Murray,wilsonashley@example.net
-10,115,98,0,0,24.0,1.022,34,0,Esmeraldas,Lisa Livingston,Gonzalez,williamskathleen@example.com
-0,124,56,13,105,21.8,0.452,21,0,Manabí,Austin Hardy,Smith,gpittman@example.org
-0,74,52,10,36,27.8,0.269,22,0,Manabí,Elizabeth Wilkins,Daniels,josephdalton@example.org
-0,97,64,36,100,36.8,0.6,25,0,Cotopaxi,Ricardo Lawrence,Schmitt,kristin78@example.com
-8,120,0,0,0,30.0,0.183,38,1,Cañar,Derek Hughes,Barker,julia33@example.org
-6,154,78,41,140,46.1,0.571,27,0,Galápagos,Rachael Chan,Alexander,vincent34@example.com
-1,144,82,40,0,41.3,0.607,28,0,Carchi,Mr. John Young Jr.,Berry,emoore@example.com
-0,137,70,38,0,33.2,0.17,22,0,Bolívar,Christopher Harris,Hill,jessica74@example.org
-0,119,66,27,0,38.8,0.259,22,0,Pastaza,Nicole Mitchell,Harrison,jamie28@example.org
-7,136,90,0,0,29.9,0.21,50,0,Carchi,Jade Prince,Acosta,jenniferjohnson@example.net
-4,114,64,0,0,28.9,0.126,24,0,Santa Elena,Zachary Tate,Ellis,richard93@example.net
-0,137,84,27,0,27.3,0.231,59,0,Pichincha,Nathan James,Diaz,johnspatrick@example.com
-2,105,80,45,191,33.7,0.711,29,1,Napo,Jonathan Sutton,Scott,wkemp@example.com
-7,114,76,17,110,23.8,0.466,31,0,Bolívar,Neil Johnson,Rodriguez,mathewsstacy@example.com
-8,126,74,38,75,25.9,0.162,39,0,Tungurahua,Tiffany Ochoa,Gomez,kelsey69@example.net
-4,132,86,31,0,28.0,0.419,63,0,Imbabura,Brandon Cline,Travis,owade@example.com
-3,158,70,30,328,35.5,0.344,35,1,Cotopaxi,Julie Johnson,Jordan,elizabethwebb@example.org
-0,123,88,37,0,35.2,0.197,29,0,Loja,Katrina Ross,Carpenter,brownronald@example.org
-4,85,58,22,49,27.8,0.306,28,0,Loja,Regina Gonzalez,Ibarra,craig85@example.net
-0,84,82,31,125,38.2,0.233,23,0,El Oro,Andrew Walton,Browning,ggalvan@example.net
-0,145,0,0,0,44.2,0.63,31,1,Imbabura,Lisa Johnson,Middleton,qmiller@example.net
-0,135,68,42,250,42.3,0.365,24,1,Morona Santiago,Tony Estes,Wallace,smithvanessa@example.org
-1,139,62,41,480,40.7,0.536,21,0,Cotopaxi,Jenny Reyes,Pope,gsims@example.org
-0,173,78,32,265,46.5,1.159,58,0,Santo Domingo de los Tsáchilas,Tara Vargas,Johnson,sawyerbrenda@example.org
-4,99,72,17,0,25.6,0.294,28,0,Cotopaxi,Jacqueline Silva,Hebert,ksutton@example.com
-8,194,80,0,0,26.1,0.551,67,0,Azuay,Erika Morrison,Holloway,jacobolson@example.com
-2,83,65,28,66,36.8,0.629,24,0,Carchi,Adam Smith,Thompson,tiffanycruz@example.org
-2,89,90,30,0,33.5,0.292,42,0,Pastaza,Sue Nichols,Sanders,monicageorge@example.com
-4,99,68,38,0,32.8,0.145,33,0,Chimborazo,Dennis Carter,Aguirre,phyllismurray@example.net
-4,125,70,18,122,28.9,1.144,45,1,Loja,Jasmine Murphy,Baker,wthomas@example.org
-3,80,0,0,0,0.0,0.174,22,0,Sucumbíos,Sandra Andersen,Lambert,jessica94@example.com
-6,166,74,0,0,26.6,0.304,66,0,Pichincha,Peter Webb,Snyder,yhebert@example.org
-5,110,68,0,0,26.0,0.292,30,0,Cotopaxi,Roberta Jenkins,Clark,kmichael@example.com
-2,81,72,15,76,30.1,0.547,25,0,Carchi,Richard Davis,Scott,waltonclaudia@example.com
-7,195,70,33,145,25.1,0.163,55,1,Esmeraldas,Andrea Black DDS,Fuller,joshuacoleman@example.net
-6,154,74,32,193,29.3,0.839,39,0,Imbabura,Jessica Cooper,Jimenez,richardsnyder@example.net
-2,117,90,19,71,25.2,0.313,21,0,Imbabura,Kristen Horton,Valdez,whitedarrell@example.net
-3,84,72,32,0,37.2,0.267,28,0,Imbabura,Victoria Le,Castillo,natalie27@example.com
-6,0,68,41,0,39.0,0.727,41,1,Cotopaxi,Scott Anderson,Jordan,amber12@example.org
-7,94,64,25,79,33.3,0.738,41,0,Chimborazo,Tracy Nichols,Bright,warrendavid@example.net
-3,96,78,39,0,37.3,0.238,40,0,Cotopaxi,Michael Johnson,Collins,smithwhitney@example.org
-10,75,82,0,0,33.3,0.263,38,0,Galápagos,Cynthia Nelson,Burgess,wardclaire@example.net
-0,180,90,26,90,36.5,0.314,35,1,Cotopaxi,Nathan Shepherd,Roberts,pooleisabella@example.net
-1,130,60,23,170,28.6,0.692,21,0,Imbabura,Angela Dixon,White,hansonmichelle@example.org
-2,84,50,23,76,30.4,0.968,21,0,Loja,Joseph Oneal,Hall,omartinez@example.org
-8,120,78,0,0,25.0,0.409,64,0,Carchi,Ryan Pace,Jones,mitchellmckinney@example.com
-12,84,72,31,0,29.7,0.297,46,1,Zamora Chinchipe,Beth Thomas,Edwards,harveysara@example.net
-0,139,62,17,210,22.1,0.207,21,0,Imbabura,Diane Hernandez,Cain,melissa69@example.net
-9,91,68,0,0,24.2,0.2,58,0,Manabí,Brandon Francis,Meyer,rodriguezderek@example.net
-2,91,62,0,0,27.3,0.525,22,0,Chimborazo,Julie King,Dawson,alexander72@example.org
-3,99,54,19,86,25.6,0.154,24,0,Loja,Elizabeth Prince,Stephens,channa@example.net
-3,163,70,18,105,31.6,0.268,28,1,Manabí,Christian Bowen,Wheeler,raymond27@example.org
-9,145,88,34,165,30.3,0.771,53,1,Chimborazo,Benjamin Acevedo,Stevens,gary19@example.net
-7,125,86,0,0,37.6,0.304,51,0,Imbabura,Mr. Justin Daniels,Wheeler,steven06@example.net
-13,76,60,0,0,32.8,0.18,41,0,Loja,William Jimenez,Rivera,mercadocollin@example.com
-6,129,90,7,326,19.6,0.582,60,0,Santa Elena,Jessica Mcintyre,Taylor,michael99@example.com
-2,68,70,32,66,25.0,0.187,25,0,Pastaza,Seth Smith,Rogers,kramerkimberly@example.org
-3,124,80,33,130,33.2,0.305,26,0,Esmeraldas,Joshua Price,Hill,hbowers@example.net
-6,114,0,0,0,0.0,0.189,26,0,Tungurahua,Kimberly Powers,Mcdaniel,hudsonnatasha@example.com
-9,130,70,0,0,34.2,0.652,45,1,Sucumbíos,David Flores,Shah,scottberry@example.com
-3,125,58,0,0,31.6,0.151,24,0,Pastaza,Karen Wilson,Keller,watsoncody@example.org
-3,87,60,18,0,21.8,0.444,21,0,Pichincha,Rachel Brooks,Osborne,csnyder@example.net
-1,97,64,19,82,18.2,0.299,21,0,Cotopaxi,Kyle Phelps,Jones,lshaw@example.net
-3,116,74,15,105,26.3,0.107,24,0,Guayas,Mary Thomas,Martinez,hmoore@example.org
-0,117,66,31,188,30.8,0.493,22,0,Napo,Jennifer Jackson,Davis,gibsonkelly@example.net
-0,111,65,0,0,24.6,0.66,31,0,Bolívar,Terri Johnson,Patterson,ocollins@example.org
-2,122,60,18,106,29.8,0.717,22,0,Cotopaxi,Kimberly Gonzalez,Garza,david82@example.net
-0,107,76,0,0,45.3,0.686,24,0,Chimborazo,Bruce Wilson,Adkins,francesharrison@example.com
-1,86,66,52,65,41.3,0.917,29,0,Los Ríos,Kevin Gardner,Jones,sherri51@example.org
-6,91,0,0,0,29.8,0.501,31,0,Pichincha,Melissa Gutierrez,Haney,chris50@example.org
-1,77,56,30,56,33.3,1.251,24,0,Pastaza,Jasmine Booth MD,Adams,murraybrittany@example.org
-4,132,0,0,0,32.9,0.302,23,1,Pastaza,Valerie Solomon,Ross,thansen@example.com
-0,105,90,0,0,29.6,0.197,46,0,El Oro,William Velez,Pena,josemiller@example.com
-0,57,60,0,0,21.7,0.735,67,0,Chimborazo,Larry Bird,Jenkins,daymaria@example.org
-0,127,80,37,210,36.3,0.804,23,0,Esmeraldas,Pamela Spencer,Price,andersonchristian@example.net
-3,129,92,49,155,36.4,0.968,32,1,Cañar,Charles Richardson,Brooks,ericawright@example.org
-8,100,74,40,215,39.4,0.661,43,1,Manabí,Dr. Jimmy Lee,Zamora,pwheeler@example.com
-3,128,72,25,190,32.4,0.549,27,1,Santo Domingo de los Tsáchilas,Richard Smith,Jackson,hardydavid@example.net
-10,90,85,32,0,34.9,0.825,56,1,Chimborazo,Amanda Huang,Williams,wbarnett@example.com
-4,84,90,23,56,39.5,0.159,25,0,Loja,Michael Marshall,Nelson,justincole@example.com
-1,88,78,29,76,32.0,0.365,29,0,Azuay,Kimberly Bailey,Taylor,audrey63@example.org
-8,186,90,35,225,34.5,0.423,37,1,Pichincha,Joseph Williams,Wright,hayley93@example.org
-5,187,76,27,207,43.6,1.034,53,1,Santa Elena,Joshua Thompson,Barnes,alicia87@example.com
-4,131,68,21,166,33.1,0.16,28,0,Esmeraldas,Charles Wolf,Baker,colekristine@example.org
-1,164,82,43,67,32.8,0.341,50,0,Pichincha,Bonnie Olsen PhD,Walker,edward62@example.org
-4,189,110,31,0,28.5,0.68,37,0,Pastaza,Dr. William Reyes,Jones,wilsonlisa@example.com
-1,116,70,28,0,27.4,0.204,21,0,Zamora Chinchipe,Caleb Johnson,Wagner,emilyparrish@example.com
-3,84,68,30,106,31.9,0.591,25,0,Pichincha,Christopher Nunez,Jones,lowecory@example.org
-6,114,88,0,0,27.8,0.247,66,0,Cañar,Ashley Fuller,Stone,timothyparsons@example.net
-1,88,62,24,44,29.9,0.422,23,0,Los Ríos,Amy Garrett,Wilson,sydneyfrank@example.net
-1,84,64,23,115,36.9,0.471,28,0,Sucumbíos,Patricia Anderson,Bartlett,deannaspencer@example.org
-7,124,70,33,215,25.5,0.161,37,0,Santo Domingo de los Tsáchilas,Madeline Brown,Gray,hebertdavid@example.com
-1,97,70,40,0,38.1,0.218,30,0,Imbabura,Ryan Lynch,Burton,tuckerashley@example.com
-8,110,76,0,0,27.8,0.237,58,0,Orellana,Lindsay Carlson,Singleton,douglastorres@example.com
-11,103,68,40,0,46.2,0.126,42,0,Santo Domingo de los Tsáchilas,Joan Phillips,Robinson,ronaldandrews@example.org
-11,85,74,0,0,30.1,0.3,35,0,Tungurahua,Stephen Aguilar,Miles,deaneduardo@example.net
-6,125,76,0,0,33.8,0.121,54,1,Galápagos,Gregory Hernandez,Hammond,dadams@example.org
-0,198,66,32,274,41.3,0.502,28,1,Carchi,Joann Williams,Underwood,wilkinssarah@example.net
-1,87,68,34,77,37.6,0.401,24,0,Carchi,Martin Bradley,Medina,fzimmerman@example.com
-6,99,60,19,54,26.9,0.497,32,0,El Oro,Michele Allen,Bennett,ycollins@example.org
-0,91,80,0,0,32.4,0.601,27,0,Cañar,Julia Conrad,Moore,marissa20@example.net
-2,95,54,14,88,26.1,0.748,22,0,Manabí,Kevin Mills,Bruce,rfoster@example.net
-1,99,72,30,18,38.6,0.412,21,0,Los Ríos,Brian Kline,Michael,pollardheather@example.net
-6,92,62,32,126,32.0,0.085,46,0,Morona Santiago,Brianna Jackson,Kaiser,alicia44@example.com
-4,154,72,29,126,31.3,0.338,37,0,Esmeraldas,Brendan Adams,Walker,pcarrillo@example.net
-0,121,66,30,165,34.3,0.203,33,1,Los Ríos,Donna Lopez,Gonzalez,dakota09@example.org
-3,78,70,0,0,32.5,0.27,39,0,Tungurahua,Candice Phillips,Diaz,anthonypatterson@example.com
-2,130,96,0,0,22.6,0.268,21,0,Los Ríos,Darlene Carr,Alvarado,kramernatalie@example.net
-3,111,58,31,44,29.5,0.43,22,0,Zamora Chinchipe,Ronald Berger,Short,bprice@example.org
-2,98,60,17,120,34.7,0.198,22,0,Esmeraldas,Bianca Larson,Reed,ricerichard@example.net
-1,143,86,30,330,30.1,0.892,23,0,El Oro,Margaret Walsh,Martin,amandamendoza@example.org
-1,119,44,47,63,35.5,0.28,25,0,Bolívar,Michelle Mueller,Walker,llopez@example.com
-6,108,44,20,130,24.0,0.813,35,0,Santa Elena,Cynthia Tyler,Evans,dixonronald@example.net
-2,118,80,0,0,42.9,0.693,21,1,Santa Elena,Stephanie Stanley,Garrison,lloydwendy@example.org
-10,133,68,0,0,27.0,0.245,36,0,Chimborazo,Jamie White,Juarez,sheltonandrea@example.com
-2,197,70,99,0,34.7,0.575,62,1,Bolívar,Curtis Gonzales,Cook,garciakatrina@example.com
-0,151,90,46,0,42.1,0.371,21,1,Galápagos,Kristin Martinez,Ware,jchristensen@example.net
-6,109,60,27,0,25.0,0.206,27,0,Pastaza,Joseph Freeman,Tucker,boonedylan@example.org
-12,121,78,17,0,26.5,0.259,62,0,Morona Santiago,Lindsey Austin,Martin,nduran@example.org
-8,100,76,0,0,38.7,0.19,42,0,Santo Domingo de los Tsáchilas,Christopher Higgins,Hensley,robertfoster@example.com
-8,124,76,24,600,28.7,0.687,52,1,Chimborazo,Michael Tanner,Mack,qanderson@example.net
-1,93,56,11,0,22.5,0.417,22,0,Manabí,Cindy Morse,Thomas,jill07@example.net
-8,143,66,0,0,34.9,0.129,41,1,Carchi,Timothy Mcknight,Bates,ann11@example.com
-6,103,66,0,0,24.3,0.249,29,0,Cotopaxi,Cory Baxter,Watson,jasonmartin@example.net
-3,176,86,27,156,33.3,1.154,52,1,Imbabura,Victoria Rowe,Simmons,linda38@example.org
-0,73,0,0,0,21.1,0.342,25,0,Chimborazo,Kayla Reynolds,Graham,tracy65@example.com
-11,111,84,40,0,46.8,0.925,45,1,El Oro,Sonya Rogers,Park,zbarnett@example.net
-2,112,78,50,140,39.4,0.175,24,0,Cañar,John Lewis,Vaughn,cmartinez@example.com
-3,132,80,0,0,34.4,0.402,44,1,Guayas,Jennifer Donaldson,Williams,waynecolon@example.net
-2,82,52,22,115,28.5,1.699,25,0,Morona Santiago,Cory Lawson,Gallegos,virginiaramos@example.net
-6,123,72,45,230,33.6,0.733,34,0,Loja,Steven Hoover,Burns,keithpatrick@example.net
-0,188,82,14,185,32.0,0.682,22,1,Azuay,Joshua Santiago,Drake,david12@example.com
-0,67,76,0,0,45.3,0.194,46,0,Esmeraldas,George Clark,Mason,andrew10@example.org
-1,89,24,19,25,27.8,0.559,21,0,Zamora Chinchipe,Julie Russell,Collins,crystal75@example.org
-1,173,74,0,0,36.8,0.088,38,1,Chimborazo,Jeffrey Johnson,Armstrong,sharonreed@example.org
-1,109,38,18,120,23.1,0.407,26,0,Pichincha,Joshua Rodriguez,Allen,ireynolds@example.net
-1,108,88,19,0,27.1,0.4,24,0,Azuay,Jeffrey Armstrong,Jackson,dmarquez@example.net
-6,96,0,0,0,23.7,0.19,28,0,Orellana,Monique Stokes,Mitchell,andrew12@example.net
-1,124,74,36,0,27.8,0.1,30,0,Guayas,Andrew Bullock,Howell,samantha05@example.com
-7,150,78,29,126,35.2,0.692,54,1,Cañar,Ms. Linda Dougherty,Dyer,melissagonzalez@example.net
-4,183,0,0,0,28.4,0.212,36,1,Napo,Jason Mcbride,Duran,george96@example.com
-1,124,60,32,0,35.8,0.514,21,0,Zamora Chinchipe,Debbie Russell,Cooper,daleoconnor@example.net
-1,181,78,42,293,40.0,1.258,22,1,Los Ríos,Mr. Gary Mcknight,Perez,frankwatson@example.com
-1,92,62,25,41,19.5,0.482,25,0,El Oro,Stephanie Sanchez,Washington,ellismichael@example.org
-0,152,82,39,272,41.5,0.27,27,0,El Oro,Patrick Gomez,Griffin,cheryl17@example.net
-1,111,62,13,182,24.0,0.138,23,0,Los Ríos,Jessica Rhodes,White,bonillajennifer@example.com
-3,106,54,21,158,30.9,0.292,24,0,Azuay,Debra Knight,Pearson,mercedes85@example.org
-3,174,58,22,194,32.9,0.593,36,1,Orellana,Jacqueline Gentry,Turner,apriljensen@example.com
-7,168,88,42,321,38.2,0.787,40,1,Los Ríos,Ricky Robinson,Massey,brian31@example.com
-6,105,80,28,0,32.5,0.878,26,0,Azuay,Alexander Barrett,Salazar,bnelson@example.org
-11,138,74,26,144,36.1,0.557,50,1,Santa Elena,Mark Kim,Jackson,ibarnes@example.com
-3,106,72,0,0,25.8,0.207,27,0,Santo Domingo de los Tsáchilas,Gordon Walker,Chavez,garciamary@example.net
-6,117,96,0,0,28.7,0.157,30,0,Guayas,Barbara Mckinney,Johnson,maysherry@example.com
-2,68,62,13,15,20.1,0.257,23,0,Orellana,Madeline Sawyer,Cole,matthewwise@example.com
-9,112,82,24,0,28.2,1.282,50,1,El Oro,Kevin Johnson,Walker,chapmankathleen@example.com
-0,119,0,0,0,32.4,0.141,24,1,Los Ríos,Matthew Robinson,Bentley,carmenmoore@example.org
-2,112,86,42,160,38.4,0.246,28,0,Orellana,Amy Morgan,Atkinson,ashley81@example.net
-2,92,76,20,0,24.2,1.698,28,0,Napo,Justin Carr,Montes,jesus53@example.com
-6,183,94,0,0,40.8,1.461,45,0,Azuay,Joseph Mosley,Reyes,gabriela25@example.net
-0,94,70,27,115,43.5,0.347,21,0,Los Ríos,Michael King,Edwards,fgregory@example.net
-2,108,64,0,0,30.8,0.158,21,0,El Oro,Anna Hayes,Hayes,wagnereddie@example.com
-4,90,88,47,54,37.7,0.362,29,0,Manabí,Daniel Walker,Wilson,darren29@example.com
-0,125,68,0,0,24.7,0.206,21,0,Imbabura,Cameron Willis,Horn,daniellesmith@example.org
-0,132,78,0,0,32.4,0.393,21,0,Pastaza,Thomas Ortiz,Bowman,jennifer68@example.com
-5,128,80,0,0,34.6,0.144,45,0,Orellana,Donald Lee,Pittman,joshua55@example.org
-4,94,65,22,0,24.7,0.148,21,0,Galápagos,Joseph Silva,Smith,davisedwin@example.com
-7,114,64,0,0,27.4,0.732,34,1,Loja,Kimberly Crawford,Rogers,zle@example.net
-0,102,78,40,90,34.5,0.238,24,0,Galápagos,Abigail Simpson,Mccoy,loweashley@example.org
-2,111,60,0,0,26.2,0.343,23,0,El Oro,Rodney Liu,Stephenson,shawnschultz@example.org
-1,128,82,17,183,27.5,0.115,22,0,Azuay,Jeanette Sweeney,Sutton,grussell@example.net
-10,92,62,0,0,25.9,0.167,31,0,Chimborazo,Christina Yates,Sampson,wilsonmeredith@example.com
-13,104,72,0,0,31.2,0.465,38,1,Tungurahua,David Sanford,Allen,travisking@example.net
-5,104,74,0,0,28.8,0.153,48,0,Morona Santiago,Tracy Hudson,Rivera,thomasturner@example.net
-2,94,76,18,66,31.6,0.649,23,0,Imbabura,Taylor Jenkins,Garcia,eric52@example.net
-7,97,76,32,91,40.9,0.871,32,1,Pastaza,Ryan Smith,Gardner,sreynolds@example.net
-1,100,74,12,46,19.5,0.149,28,0,Tungurahua,Matthew May,Mendoza,joseph75@example.org
-0,102,86,17,105,29.3,0.695,27,0,El Oro,Kelsey Watson,Stanton,qrobinson@example.net
-4,128,70,0,0,34.3,0.303,24,0,Morona Santiago,Emily Rubio,Sanders,jflores@example.com
-6,147,80,0,0,29.5,0.178,50,1,Esmeraldas,Samuel Costa,Ritter,thendrix@example.net
-4,90,0,0,0,28.0,0.61,31,0,Orellana,Robert Brown,Rodriguez,caitlinstewart@example.com
-3,103,72,30,152,27.6,0.73,27,0,Azuay,Heather Delgado,Johns,ortizrussell@example.net
-2,157,74,35,440,39.4,0.134,30,0,Carchi,John Rocha,Boyd,scottblack@example.com
-1,167,74,17,144,23.4,0.447,33,1,Guayas,Michael Wilson,Moore,jillmyers@example.org
-0,179,50,36,159,37.8,0.455,22,1,Sucumbíos,Michael Palmer,Campbell,adamsjose@example.org
-11,136,84,35,130,28.3,0.26,42,1,Napo,Elizabeth Baird,Montoya,krodriguez@example.com
-0,107,60,25,0,26.4,0.133,23,0,Manabí,Scott Hendricks,Stewart,jennifer59@example.com
-1,91,54,25,100,25.2,0.234,23,0,Imbabura,Nicholas Foster,Smith,walter41@example.com
-1,117,60,23,106,33.8,0.466,27,0,Santo Domingo de los Tsáchilas,Heidi Brooks,King,crawfordvincent@example.com
-5,123,74,40,77,34.1,0.269,28,0,Orellana,Roger Kelly,Brown,ffrey@example.org
-2,120,54,0,0,26.8,0.455,27,0,Santo Domingo de los Tsáchilas,Christian Robinson,Baker,hayley83@example.org
-1,106,70,28,135,34.2,0.142,22,0,Los Ríos,Judy White,Sanchez,jenniferperez@example.com
-2,155,52,27,540,38.7,0.24,25,1,Bolívar,Marcia Mitchell,Johnson,brentallen@example.org
-2,101,58,35,90,21.8,0.155,22,0,Orellana,Christian Marks,Baker,harmonamy@example.org
-1,120,80,48,200,38.9,1.162,41,0,Azuay,Jacob Greene,Byrd,rachel24@example.org
-11,127,106,0,0,39.0,0.19,51,0,Guayas,Shannon Fitzpatrick,Mahoney,snyderchristopher@example.com
-3,80,82,31,70,34.2,1.292,27,1,Pichincha,Clinton Gonzales,Wilkerson,fordamanda@example.com
-10,162,84,0,0,27.7,0.182,54,0,Pastaza,Julia Turner,Wilson,michelle35@example.net
-1,199,76,43,0,42.9,1.394,22,1,Pichincha,Andrea Ramirez,Garcia,patricia91@example.org
-8,167,106,46,231,37.6,0.165,43,1,Imbabura,Joshua Moore,Quinn,sallyflores@example.org
-9,145,80,46,130,37.9,0.637,40,1,Esmeraldas,Evan Moreno,Sanford,tyoung@example.com
-6,115,60,39,0,33.7,0.245,40,1,Pichincha,Tony Barron,Johnson,michaelangelica@example.net
-1,112,80,45,132,34.8,0.217,24,0,Loja,Suzanne Matthews,Terry,john45@example.org
-4,145,82,18,0,32.5,0.235,70,1,Galápagos,Michael Parker,Ortega,robert63@example.com
-10,111,70,27,0,27.5,0.141,40,1,Sucumbíos,Lisa Ellis,Edwards,brendan46@example.net
-6,98,58,33,190,34.0,0.43,43,0,Cotopaxi,Jordan Boyle,Brown,rossalicia@example.com
-9,154,78,30,100,30.9,0.164,45,0,Chimborazo,Erica Martinez,Graham,pagetyler@example.net
-6,165,68,26,168,33.6,0.631,49,0,Manabí,Colin Matthews,Boyd,rachel15@example.net
-1,99,58,10,0,25.4,0.551,21,0,Cañar,Allen Ortega,Williams,christopher50@example.net
-10,68,106,23,49,35.5,0.285,47,0,Galápagos,Ronald Ingram,Dillon,udiaz@example.com
-3,123,100,35,240,57.3,0.88,22,0,Santo Domingo de los Tsáchilas,Darrell Schultz,Perkins,anthonylawrence@example.com
-8,91,82,0,0,35.6,0.587,68,0,Guayas,Fernando Martinez,Gregory,jamesyang@example.com
-6,195,70,0,0,30.9,0.328,31,1,Galápagos,Jose Guzman,Rose,freemandeborah@example.com
-9,156,86,0,0,24.8,0.23,53,1,Santa Elena,Raymond Yoder,Thomas,nataliejones@example.org
-0,93,60,0,0,35.3,0.263,25,0,Imbabura,Christopher Reed,Bowers,rgibbs@example.org
-3,121,52,0,0,36.0,0.127,25,1,El Oro,Mark Oconnor,Mills,parksgrace@example.org
-2,101,58,17,265,24.2,0.614,23,0,Pichincha,Donald Weaver,Burnett,emily19@example.com
-2,56,56,28,45,24.2,0.332,22,0,Morona Santiago,Brittney Smith,Fox,lstone@example.org
-0,162,76,36,0,49.6,0.364,26,1,Pichincha,Brianna Adams,Schmidt,dvasquez@example.net
-0,95,64,39,105,44.6,0.366,22,0,Cañar,Lucas Adams,Garza,dayricky@example.com
-4,125,80,0,0,32.3,0.536,27,1,Guayas,Gloria Parsons,Dixon,ebailey@example.com
-5,136,82,0,0,0.0,0.64,69,0,Cañar,Adam Boone,Molina,justin28@example.com
-2,129,74,26,205,33.2,0.591,25,0,Napo,Melanie Cortez,Nichols,vanessa13@example.com
-3,130,64,0,0,23.1,0.314,22,0,Pichincha,Sarah Camacho,Wilson,williamslauren@example.net
-1,107,50,19,0,28.3,0.181,29,0,Morona Santiago,William Kelley,Castro,alexa08@example.org
-1,140,74,26,180,24.1,0.828,23,0,Bolívar,Nicholas Sanchez,Lee,sharon73@example.com
-1,144,82,46,180,46.1,0.335,46,1,Zamora Chinchipe,Brian Williams,Bell,gwendolyntodd@example.org
-8,107,80,0,0,24.6,0.856,34,0,Cañar,Timothy Meyer,Brown,carolinetucker@example.net
-13,158,114,0,0,42.3,0.257,44,1,Carchi,William Williams,Freeman,robert50@example.net
-2,121,70,32,95,39.1,0.886,23,0,Tungurahua,Edwin Gonzalez,Williams,garciacolton@example.com
-7,129,68,49,125,38.5,0.439,43,1,Esmeraldas,Jessica Gonzalez,Smith,ellislauren@example.com
-2,90,60,0,0,23.5,0.191,25,0,Galápagos,Kimberly Murphy,Baker,shendricks@example.org
-7,142,90,24,480,30.4,0.128,43,1,Morona Santiago,Bradley Davis,Sharp,gwendolynturner@example.net
-3,169,74,19,125,29.9,0.268,31,1,Loja,Angela Duran,Larson,dustinporter@example.net
-0,99,0,0,0,25.0,0.253,22,0,Loja,Kimberly Hall,Wilson,daniellewright@example.net
-4,127,88,11,155,34.5,0.598,28,0,Zamora Chinchipe,Gary Galloway,Gilbert,ashleybishop@example.net
-4,118,70,0,0,44.5,0.904,26,0,Pichincha,Stephen Zavala,Edwards,imontgomery@example.com
-2,122,76,27,200,35.9,0.483,26,0,Zamora Chinchipe,Joseph Welch,Tucker,nelsonfelicia@example.com
-6,125,78,31,0,27.6,0.565,49,1,Cañar,Debbie Dunn,Jones,fowlerstephanie@example.net
-1,168,88,29,0,35.0,0.905,52,1,Santa Elena,Melanie Mcneil,Dodson,glenbraun@example.com
-2,129,0,0,0,38.5,0.304,41,0,Santo Domingo de los Tsáchilas,Johnny Greene,Kerr,nixonwilliam@example.net
-4,110,76,20,100,28.4,0.118,27,0,Pastaza,Todd Hayden,Gonzalez,ukeller@example.com
-6,80,80,36,0,39.8,0.177,28,0,Azuay,Sarah Figueroa,Turner,wilkinsolivia@example.com
-10,115,0,0,0,0.0,0.261,30,1,Guayas,Linda Clark,Christensen,jason50@example.net
-2,127,46,21,335,34.4,0.176,22,0,Cañar,Christopher Holland,Reeves,jordansheryl@example.org
-9,164,78,0,0,32.8,0.148,45,1,Imbabura,Courtney Riley,Morrison,james28@example.com
-2,93,64,32,160,38.0,0.674,23,1,Sucumbíos,Kimberly Brown,Meyers,collinscarl@example.net
-3,158,64,13,387,31.2,0.295,24,0,Azuay,Carlos Vaughan,Smith,stephanie32@example.net
-5,126,78,27,22,29.6,0.439,40,0,Orellana,Jose Taylor,Booker,udaniels@example.org
-10,129,62,36,0,41.2,0.441,38,1,Carchi,Brianna Bullock,Dominguez,traceylewis@example.com
-0,134,58,20,291,26.4,0.352,21,0,Imbabura,Lisa Brennan,Mendoza,jonathannewton@example.org
-3,102,74,0,0,29.5,0.121,32,0,Chimborazo,Stacy Butler,Meyers,powerstravis@example.com
-7,187,50,33,392,33.9,0.826,34,1,Manabí,Nancy Benson,Nguyen,jnichols@example.org
-3,173,78,39,185,33.8,0.97,31,1,Zamora Chinchipe,Christine Williams,Macdonald,michael42@example.org
-10,94,72,18,0,23.1,0.595,56,0,Imbabura,Joshua Rocha,Obrien,amandaarnold@example.org
-1,108,60,46,178,35.5,0.415,24,0,Esmeraldas,Lori Martinez,Payne,murphyclinton@example.org
-5,97,76,27,0,35.6,0.378,52,1,Pichincha,Olivia Harris,Dean,calderondebra@example.net
-4,83,86,19,0,29.3,0.317,34,0,Los Ríos,Michael Williams,Clark,peckrachel@example.net
-1,114,66,36,200,38.1,0.289,21,0,Bolívar,Haley Hatfield,Walker,hernandezkevin@example.org
-1,149,68,29,127,29.3,0.349,42,1,Loja,Alexis Sherman,Sullivan,david86@example.com
-5,117,86,30,105,39.1,0.251,42,0,Sucumbíos,Patricia Lee,Lynch,erinhopkins@example.net
-1,111,94,0,0,32.8,0.265,45,0,Cotopaxi,Rebecca Jackson,Tucker,lisahooper@example.net
-4,112,78,40,0,39.4,0.236,38,0,Cotopaxi,Felicia Paul,West,sphillips@example.com
-1,116,78,29,180,36.1,0.496,25,0,Zamora Chinchipe,David Barnett,Nelson,davismatthew@example.com
-0,141,84,26,0,32.4,0.433,22,0,Imbabura,Brent Allison,Fisher,hansonkristin@example.net
-2,175,88,0,0,22.9,0.326,22,0,Tungurahua,Christopher Nelson,Welch,collinskimberly@example.com
-2,92,52,0,0,30.1,0.141,22,0,Azuay,Wanda Patterson,Castillo,wwalker@example.net
-3,130,78,23,79,28.4,0.323,34,1,Bolívar,Steven Martin,Porter,scottwright@example.net
-8,120,86,0,0,28.4,0.259,22,1,Chimborazo,Amanda Shaw,Mitchell,johnrogers@example.org
-2,174,88,37,120,44.5,0.646,24,1,Bolívar,Anna Price,Baker,richard12@example.net
-2,106,56,27,165,29.0,0.426,22,0,Bolívar,Benjamin Ortiz,Smith,christina71@example.net
-2,105,75,0,0,23.3,0.56,53,0,Tungurahua,Michael Lawrence,Blevins,briannafoster@example.org
-4,95,60,32,0,35.4,0.284,28,0,Morona Santiago,William Anderson,Collins,blackjonathan@example.org
-0,126,86,27,120,27.4,0.515,21,0,Guayas,Christina Gordon,Davis,tashapham@example.com
-8,65,72,23,0,32.0,0.6,42,0,Morona Santiago,David Baker,Burns,ddavis@example.com
-2,99,60,17,160,36.6,0.453,21,0,Manabí,Ian Huber,Jones,markrogers@example.com
-1,102,74,0,0,39.5,0.293,42,1,Orellana,Chelsea Phelps,Garcia,rosewest@example.com
-11,120,80,37,150,42.3,0.785,48,1,Napo,Aaron Montgomery,Stephens,hannah78@example.net
-3,102,44,20,94,30.8,0.4,26,0,Esmeraldas,Leah Martinez,Kaufman,theresanguyen@example.com
-1,109,58,18,116,28.5,0.219,22,0,Guayas,Russell Munoz,Hoover,joseph79@example.com
-9,140,94,0,0,32.7,0.734,45,1,Zamora Chinchipe,Nicole King,Gay,lsharp@example.net
-13,153,88,37,140,40.6,1.174,39,0,Orellana,Benjamin Foster,Turner,michelle07@example.net
-12,100,84,33,105,30.0,0.488,46,0,Napo,Amanda Robinson,Whitney,kristy88@example.net
-1,147,94,41,0,49.3,0.358,27,1,Pastaza,Paula Moore,Harris,emartin@example.net
-1,81,74,41,57,46.3,1.096,32,0,El Oro,Brooke Miller,Fields,melinda75@example.net
-3,187,70,22,200,36.4,0.408,36,1,Zamora Chinchipe,Jessica Burnett,Henderson,bnelson@example.com
-6,162,62,0,0,24.3,0.178,50,1,Galápagos,Crystal Ruiz,Kelly,richardsonaaron@example.net
-4,136,70,0,0,31.2,1.182,22,1,Guayas,Richard Franco,Garcia,tiffanyriley@example.org
-1,121,78,39,74,39.0,0.261,28,0,Azuay,Yvonne Dennis,Roman,nfreeman@example.net
-3,108,62,24,0,26.0,0.223,25,0,Tungurahua,Jason Underwood,Bean,susancunningham@example.com
-0,181,88,44,510,43.3,0.222,26,1,Galápagos,Jaime Ortiz,Avila,douglas71@example.org
-8,154,78,32,0,32.4,0.443,45,1,Carchi,Travis Parker,King,sean70@example.org
-1,128,88,39,110,36.5,1.057,37,1,Imbabura,Bradley Figueroa,Henderson,matthewclark@example.net
-7,137,90,41,0,32.0,0.391,39,0,Carchi,Cesar Greene,Wells,scottbell@example.com
-0,123,72,0,0,36.3,0.258,52,1,El Oro,Katrina Bailey,Graves,johnmartin@example.net
-1,106,76,0,0,37.5,0.197,26,0,Santo Domingo de los Tsáchilas,Matthew Gilbert,Murphy,lorinorman@example.org
-6,190,92,0,0,35.5,0.278,66,1,Santa Elena,Michelle Jackson,Rivera,melissa71@example.com
-2,88,58,26,16,28.4,0.766,22,0,Galápagos,Brittany Bender,Byrd,oconnorpaul@example.com
-9,170,74,31,0,44.0,0.403,43,1,Morona Santiago,Andrea Huff,Tran,williamspaul@example.org
-9,89,62,0,0,22.5,0.142,33,0,Los Ríos,Joshua Guzman,Andrade,williamsdenise@example.org
-10,101,76,48,180,32.9,0.171,63,0,Loja,Amy Lopez,Keller,samantha74@example.com
-2,122,70,27,0,36.8,0.34,27,0,Los Ríos,Mr. Jeffrey Meyers,Maxwell,lynn57@example.net
-5,121,72,23,112,26.2,0.245,30,0,Galápagos,Justin Riddle,Crosby,jack65@example.net
-1,126,60,0,0,30.1,0.349,47,1,Loja,Christopher Myers,Thomas,baileystephens@example.org
-1,93,70,31,0,30.4,0.315,23,0,Orellana,Mitchell Wallace,Hanna,jason18@example.com
+6,148,72,35,0,33.6,0.627,50,1,Zamora Chinchipe,Michael Atkinson,Black,vanessapace@example.com
+1,85,66,29,0,26.6,0.351,31,0,Los Ríos,Alexandra Neal,Jones,roweemily@example.com
+8,183,64,0,0,23.3,0.672,32,1,Morona Santiago,Marissa Myers,Snyder,greenjasmine@example.com
+1,89,66,23,94,28.1,0.167,21,0,Cotopaxi,Kristi Gutierrez,Martinez,rkemp@example.org
+0,137,40,35,168,43.1,2.288,33,1,Tungurahua,Jason Santos,Martin,nshaw@example.com
+5,116,74,0,0,25.6,0.201,30,0,Bolívar,Jeanne Lynch,Williams,smithkenneth@example.com
+3,78,50,32,88,31.0,0.248,26,1,Manabí,Christopher Gonzales,Pham,charles27@example.org
+10,115,0,0,0,35.3,0.134,29,0,Chimborazo,Jacqueline Clark,Oliver,joneslisa@example.net
+2,197,70,45,543,30.5,0.158,53,1,Santa Elena,John Stewart,Malone,danielle04@example.net
+8,125,96,0,0,0.0,0.232,54,1,Chimborazo,Sharon Rodriguez,Fisher,kylie85@example.org
+4,110,92,0,0,37.6,0.191,30,0,Azuay,George Delgado,King,yglass@example.org
+10,168,74,0,0,38.0,0.537,34,1,Pastaza,Victoria Torres,Dickson,rebeccawalker@example.org
+10,139,80,0,0,27.1,1.441,57,0,Los Ríos,Michelle Stephens,Miller,hjones@example.com
+1,189,60,23,846,30.1,0.398,59,1,Los Ríos,Hector Giles,Ingram,jeffrey80@example.com
+5,166,72,19,175,25.8,0.587,51,1,Santa Elena,Lydia Terry,Anderson,kwilson@example.org
+7,100,0,0,0,30.0,0.484,32,1,Cotopaxi,Isaiah Patton,Ramos,michael71@example.com
+0,118,84,47,230,45.8,0.551,31,1,Manabí,Ronald Kent,Peters,michaeldaniel@example.net
+7,107,74,0,0,29.6,0.254,31,1,Santo Domingo de los Tsáchilas,Cheryl Ellis,Ray,krystal18@example.org
+1,103,30,38,83,43.3,0.183,33,0,Los Ríos,Francis Hopkins,Arellano,kharris@example.net
+1,115,70,30,96,34.6,0.529,32,1,Santa Elena,Donald Morton,Nguyen,gibsonrebecca@example.net
+3,126,88,41,235,39.3,0.704,27,0,Los Ríos,Toni Carey,Randolph,williammosley@example.org
+8,99,84,0,0,35.4,0.388,50,0,Los Ríos,Larry Glenn,Rocha,anthony05@example.org
+7,196,90,0,0,39.8,0.451,41,1,El Oro,John Stewart,Welch,tmclaughlin@example.com
+9,119,80,35,0,29.0,0.263,29,1,Pichincha,Hector Wilson,Brown,mary08@example.org
+11,143,94,33,146,36.6,0.254,51,1,Los Ríos,Brian Steele,Hernandez,hillalexandria@example.org
+10,125,70,26,115,31.1,0.205,41,1,Santa Elena,Valerie Aguilar,Taylor,davisjames@example.com
+7,147,76,0,0,39.4,0.257,43,1,Galápagos,Crystal Taylor,Myers,boydjoy@example.net
+1,97,66,15,140,23.2,0.487,22,0,Imbabura,April Rodriguez,Jones,clarkcynthia@example.org
+13,145,82,19,110,22.2,0.245,57,0,Tungurahua,Matthew Wagner,Jordan,rachelobrien@example.net
+5,117,92,0,0,34.1,0.337,38,0,Azuay,Steven Cox,Hall,angela86@example.net
+5,109,75,26,0,36.0,0.546,60,0,Los Ríos,Leslie Nelson,Phelps,victoriasmith@example.com
+3,158,76,36,245,31.6,0.851,28,1,Manabí,Christopher Houston,Jimenez,fernandezrebecca@example.org
+3,88,58,11,54,24.8,0.267,22,0,Esmeraldas,Judy Warren,Hernandez,knightnicholas@example.net
+6,92,92,0,0,19.9,0.188,28,0,Imbabura,Stacey Ellis,Watson,brian17@example.org
+10,122,78,31,0,27.6,0.512,45,0,Chimborazo,James Randolph,Saunders,jameswhite@example.net
+4,103,60,33,192,24.0,0.966,33,0,Guayas,Candice Aguilar,Duran,mayjason@example.net
+11,138,76,0,0,33.2,0.42,35,0,Guayas,Christopher Payne,Thornton,gjohnson@example.org
+9,102,76,37,0,32.9,0.665,46,1,Pastaza,Dr. Kyle Crawford,Lambert,nibarra@example.net
+2,90,68,42,0,38.2,0.503,27,1,Azuay,Ashley Mckinney,Peterson,fpetty@example.com
+4,111,72,47,207,37.1,1.39,56,1,Azuay,Lauren Kane,Allen,kathleen34@example.org
+3,180,64,25,70,34.0,0.271,26,0,Zamora Chinchipe,Victoria Crane,Hess,kellyeric@example.com
+7,133,84,0,0,40.2,0.696,37,0,Cañar,Devin Mitchell,Jackson,hcalderon@example.net
+7,106,92,18,0,22.7,0.235,48,0,Santo Domingo de los Tsáchilas,Yvonne Salinas,Carter,catherine82@example.com
+9,171,110,24,240,45.4,0.721,54,1,Manabí,Preston Turner,Mendoza,steven24@example.net
+7,159,64,0,0,27.4,0.294,40,0,Chimborazo,Anthony Tyler,Ward,dennisjames@example.org
+0,180,66,39,0,42.0,1.893,25,1,Galápagos,Jennifer Collins,Davidson,dianewang@example.org
+1,146,56,0,0,29.7,0.564,29,0,Tungurahua,Daniel Miller,Mullins,sarahhaley@example.net
+2,71,70,27,0,28.0,0.586,22,0,Napo,Craig Phillips,Steele,donna88@example.com
+7,103,66,32,0,39.1,0.344,31,1,Guayas,Dominic Gray,Tucker,brittanyjackson@example.net
+7,105,0,0,0,0.0,0.305,24,0,Carchi,Willie Buckley,Alexander,fuentesdaniel@example.com
+1,103,80,11,82,19.4,0.491,22,0,Santa Elena,Edward Franklin,Bradley,eholden@example.org
+1,101,50,15,36,24.2,0.526,26,0,Loja,Katherine Grant,Ortiz,unewton@example.org
+5,88,66,21,23,24.4,0.342,30,0,Napo,Charles Doyle,Pratt,brett94@example.com
+8,176,90,34,300,33.7,0.467,58,1,Carchi,Kenneth Huang,Chase,rayjessica@example.com
+7,150,66,42,342,34.7,0.718,42,0,Napo,Elizabeth Gibson,Knight,smithdouglas@example.com
+1,73,50,10,0,23.0,0.248,21,0,El Oro,Gregory Lindsey,Higgins,hensondustin@example.org
+7,187,68,39,304,37.7,0.254,41,1,Loja,Bethany Scott,Edwards,donald97@example.net
+0,100,88,60,110,46.8,0.962,31,0,Carchi,Tiffany Walker,Rangel,shariramirez@example.net
+0,146,82,0,0,40.5,1.781,44,0,Zamora Chinchipe,Michael Daniels,Coleman,jasonjordan@example.com
+0,105,64,41,142,41.5,0.173,22,0,Guayas,Whitney Middleton,Roberts,trevorstevenson@example.net
+2,84,0,0,0,0.0,0.304,21,0,Morona Santiago,Penny Morales,Bradley,nealmichael@example.com
+8,133,72,0,0,32.9,0.27,39,1,Tungurahua,John Martinez,Scott,nicoleparker@example.com
+5,44,62,0,0,25.0,0.587,36,0,Sucumbíos,Theresa Barnes,Ortega,nburch@example.com
+2,141,58,34,128,25.4,0.699,24,0,Zamora Chinchipe,Sara Thomas,Shelton,bcarr@example.org
+7,114,66,0,0,32.8,0.258,42,1,Cañar,Kathryn Brown,Smith,smithpatricia@example.com
+5,99,74,27,0,29.0,0.203,32,0,Chimborazo,Chase Lynch,Butler,morgan70@example.net
+0,109,88,30,0,32.5,0.855,38,1,Esmeraldas,Amanda Munoz,Sanford,stephensandrew@example.com
+2,109,92,0,0,42.7,0.845,54,0,El Oro,Eric Gillespie,Rodriguez,michelle08@example.org
+1,95,66,13,38,19.6,0.334,25,0,Pastaza,Diana Howell,Johnson,kingmatthew@example.net
+4,146,85,27,100,28.9,0.189,27,0,Imbabura,Bradley Floyd,Walker,robin63@example.com
+2,100,66,20,90,32.9,0.867,28,1,Manabí,Robert Moody,Elliott,brownrandy@example.net
+5,139,64,35,140,28.6,0.411,26,0,Bolívar,Mrs. Leah Franklin DDS,Harrison,christinacochran@example.net
+13,126,90,0,0,43.4,0.583,42,1,Bolívar,Vanessa Jenkins,Hernandez,matthew18@example.net
+4,129,86,20,270,35.1,0.231,23,0,Napo,Cynthia Marshall,Woods,stephaniewillis@example.net
+1,79,75,30,0,32.0,0.396,22,0,Santa Elena,Patricia Griffin,Cruz,icastaneda@example.net
+1,0,48,20,0,24.7,0.14,22,0,Los Ríos,Alexis Buchanan,Rogers,kristinweber@example.org
+7,62,78,0,0,32.6,0.391,41,0,Carchi,Carrie Simmons,Church,brianwilliams@example.com
+5,95,72,33,0,37.7,0.37,27,0,Los Ríos,Timothy Torres,Vazquez,ronaldmoore@example.com
+0,131,0,0,0,43.2,0.27,26,1,Galápagos,Elizabeth Barrett,Gonzalez,alicia71@example.com
+2,112,66,22,0,25.0,0.307,24,0,Manabí,Katherine Martin,Walsh,parrishconnie@example.net
+3,113,44,13,0,22.4,0.14,22,0,Azuay,Kevin Ball,Anderson,nspence@example.net
+2,74,0,0,0,0.0,0.102,22,0,Sucumbíos,Antonio Castillo,Davis,millervalerie@example.org
+7,83,78,26,71,29.3,0.767,36,0,Pichincha,Steven Nicholson,Ayala,marvinpierce@example.net
+0,101,65,28,0,24.6,0.237,22,0,Esmeraldas,Jesse Allen,Jordan,danielle71@example.net
+5,137,108,0,0,48.8,0.227,37,1,Napo,Alexandra Nelson,Booker,phillipsjoseph@example.com
+2,110,74,29,125,32.4,0.698,27,0,Carchi,Steven Garcia,Barrett,bradybeth@example.net
+13,106,72,54,0,36.6,0.178,45,0,Santo Domingo de los Tsáchilas,Ryan Allen,Smith,prhodes@example.com
+2,100,68,25,71,38.5,0.324,26,0,Azuay,Robert Jones,Winters,kyleking@example.com
+15,136,70,32,110,37.1,0.153,43,1,Cotopaxi,Sarah Young,Welch,lynchcaitlin@example.net
+1,107,68,19,0,26.5,0.165,24,0,Chimborazo,Sandra Pineda,Taylor,douglas38@example.org
+1,80,55,0,0,19.1,0.258,21,0,Morona Santiago,Chase Salazar,Diaz,michael83@example.com
+4,123,80,15,176,32.0,0.443,34,0,Pichincha,Jonathan Rivers,Cordova,xabbott@example.net
+7,81,78,40,48,46.7,0.261,42,0,Esmeraldas,Brenda Davis,Grant,karensanchez@example.com
+4,134,72,0,0,23.8,0.277,60,1,Sucumbíos,Tracy Martinez DDS,Carpenter,shermankimberly@example.org
+2,142,82,18,64,24.7,0.761,21,0,Bolívar,Manuel Turner,Baldwin,sarahperkins@example.com
+6,144,72,27,228,33.9,0.255,40,0,Tungurahua,Stephen Cochran,Jones,pvasquez@example.com
+2,92,62,28,0,31.6,0.13,24,0,Galápagos,Robert Powers,Sullivan,john95@example.org
+1,71,48,18,76,20.4,0.323,22,0,Santo Domingo de los Tsáchilas,Jacqueline Stein,Green,emma69@example.net
+6,93,50,30,64,28.7,0.356,23,0,Cañar,Amy Sullivan,Lee,derrickespinoza@example.com
+1,122,90,51,220,49.7,0.325,31,1,Tungurahua,Kaitlyn Hall,Price,emilywood@example.com
+1,163,72,0,0,39.0,1.222,33,1,Napo,Justin Davis,Robles,bradyjimenez@example.com
+1,151,60,0,0,26.1,0.179,22,0,Pastaza,David Hayes,Ortiz,dberg@example.com
+0,125,96,0,0,22.5,0.262,21,0,Esmeraldas,Sean Crawford,Gonzalez,garciapaul@example.org
+1,81,72,18,40,26.6,0.283,24,0,Orellana,Jennifer Castillo,Martin,randy08@example.com
+2,85,65,0,0,39.6,0.93,27,0,Chimborazo,Glenda Swanson,Burns,chengerald@example.org
+1,126,56,29,152,28.7,0.801,21,0,Tungurahua,Heidi Snow,Phillips,julie99@example.org
+1,96,122,0,0,22.4,0.207,27,0,Chimborazo,Christina Martinez,Gomez,imonroe@example.org
+4,144,58,28,140,29.5,0.287,37,0,Cañar,Ryan Brock,Schmidt,richard15@example.net
+3,83,58,31,18,34.3,0.336,25,0,Esmeraldas,Jason Edwards,Haynes,patriciabuck@example.org
+0,95,85,25,36,37.4,0.247,24,1,Morona Santiago,Jessica Mitchell,Faulkner,christopher43@example.org
+3,171,72,33,135,33.3,0.199,24,1,Bolívar,Gregory Peters,Hernandez,ulam@example.com
+8,155,62,26,495,34.0,0.543,46,1,Pichincha,Karen Taylor,Moore,annagarcia@example.net
+1,89,76,34,37,31.2,0.192,23,0,Santa Elena,Marcus Douglas,Little,ramirezrobert@example.com
+4,76,62,0,0,34.0,0.391,25,0,Napo,Mark Roy,Arellano,yjohnson@example.org
+7,160,54,32,175,30.5,0.588,39,1,Cañar,Anthony Wood,Reid,dmorrow@example.net
+4,146,92,0,0,31.2,0.539,61,1,Santa Elena,Stephanie Avila,Norris,mthompson@example.org
+5,124,74,0,0,34.0,0.22,38,1,Bolívar,Sandra Smith,Edwards,yjohnson@example.org
+5,78,48,0,0,33.7,0.654,25,0,Santa Elena,John Lee,Alvarez,lcampos@example.com
+4,97,60,23,0,28.2,0.443,22,0,Cañar,Jeffrey Benjamin,Taylor,qduke@example.org
+4,99,76,15,51,23.2,0.223,21,0,Pastaza,Heidi Henry,Tran,gregorywilliams@example.org
+0,162,76,56,100,53.2,0.759,25,1,Esmeraldas,Carrie Rice,Berry,marquezlarry@example.net
+6,111,64,39,0,34.2,0.26,24,0,Orellana,Shannon Moore,Villarreal,austin20@example.com
+2,107,74,30,100,33.6,0.404,23,0,Santa Elena,Carl Mcdaniel,Bird,daniellemcclain@example.com
+5,132,80,0,0,26.8,0.186,69,0,Morona Santiago,Michael Gilbert,Henderson,anna89@example.com
+0,113,76,0,0,33.3,0.278,23,1,Imbabura,Allison Mckenzie,Rice,djordan@example.com
+1,88,30,42,99,55.0,0.496,26,1,Cotopaxi,Lauren Mcfarland,Browning,justindeleon@example.net
+3,120,70,30,135,42.9,0.452,30,0,Pichincha,Christina Jackson,Franklin,ipatterson@example.org
+1,118,58,36,94,33.3,0.261,23,0,Loja,Chelsea Carroll,Jones,podom@example.net
+1,117,88,24,145,34.5,0.403,40,1,Napo,Laura Mccall,Mcdowell,jvazquez@example.com
+0,105,84,0,0,27.9,0.741,62,1,Napo,Christine Wheeler,Evans,gonzalezjohn@example.net
+4,173,70,14,168,29.7,0.361,33,1,Santa Elena,Jonathan Coleman,Bernard,mayerdanielle@example.org
+9,122,56,0,0,33.3,1.114,33,1,Cañar,Mr. Lee Stevens Jr.,Glenn,matthew47@example.org
+3,170,64,37,225,34.5,0.356,30,1,Galápagos,Bradley Wallace,Macias,carla35@example.com
+8,84,74,31,0,38.3,0.457,39,0,Tungurahua,Anthony Lopez,Porter,fcrosby@example.com
+2,96,68,13,49,21.1,0.647,26,0,Sucumbíos,Jennifer Bryan,Lewis,jeremyhuynh@example.org
+2,125,60,20,140,33.8,0.088,31,0,Sucumbíos,Terry Mcintyre,Harrison,gonzalezkevin@example.net
+0,100,70,26,50,30.8,0.597,21,0,Carchi,Sierra Anderson,Espinoza,christophertaylor@example.com
+0,93,60,25,92,28.7,0.532,22,0,Guayas,Jennifer Frederick,Hooper,anthony95@example.com
+0,129,80,0,0,31.2,0.703,29,0,Bolívar,Seth Baker,Adams,gjordan@example.org
+5,105,72,29,325,36.9,0.159,28,0,Guayas,Juan Watson MD,Martin,ashleyanderson@example.org
+3,128,78,0,0,21.1,0.268,55,0,Esmeraldas,John Pitts,Moore,santiagowilliam@example.net
+5,106,82,30,0,39.5,0.286,38,0,Manabí,Jason Johnson,Kirk,hwebb@example.net
+2,108,52,26,63,32.5,0.318,22,0,Pastaza,Victoria Powell,Rivera,fking@example.org
+10,108,66,0,0,32.4,0.272,42,1,Galápagos,Cameron Sullivan,Schultz,samuel34@example.net
+4,154,62,31,284,32.8,0.237,23,0,Tungurahua,Richard Faulkner,Johnston,paige20@example.com
+0,102,75,23,0,0.0,0.572,21,0,El Oro,Ariel Lamb,Myers,barnesbryan@example.net
+9,57,80,37,0,32.8,0.096,41,0,Manabí,Matthew Brown,Moran,fflowers@example.org
+2,106,64,35,119,30.5,1.4,34,0,Orellana,Alicia Harris,Brown,jbanks@example.org
+5,147,78,0,0,33.7,0.218,65,0,Pichincha,Nancy Allen,Sullivan,valeriesnyder@example.net
+2,90,70,17,0,27.3,0.085,22,0,El Oro,Justin Cortez,King,christineramirez@example.org
+1,136,74,50,204,37.4,0.399,24,0,Carchi,Krystal Williams,Lowe,floresbenjamin@example.org
+4,114,65,0,0,21.9,0.432,37,0,Sucumbíos,Cynthia Gilbert,Johnson,tsawyer@example.com
+9,156,86,28,155,34.3,1.189,42,1,Manabí,Chelsea Harmon,Moore,xclark@example.net
+1,153,82,42,485,40.6,0.687,23,0,Manabí,Matthew Gilmore,Ferguson,amurray@example.net
+8,188,78,0,0,47.9,0.137,43,1,Loja,Charles Rodgers,Evans,ltanner@example.com
+7,152,88,44,0,50.0,0.337,36,1,Pastaza,Michelle Meza,Hendricks,latoyagriffin@example.net
+2,99,52,15,94,24.6,0.637,21,0,Carchi,Calvin Smith,Sullivan,tyler05@example.org
+1,109,56,21,135,25.2,0.833,23,0,Bolívar,Dr. Jacob Wood,Walter,piercechristopher@example.org
+2,88,74,19,53,29.0,0.229,22,0,Guayas,Matthew Collins,Monroe,richardhardy@example.net
+17,163,72,41,114,40.9,0.817,47,1,Imbabura,Brian Mendoza,Mcconnell,michael62@example.org
+4,151,90,38,0,29.7,0.294,36,0,Bolívar,Brian Gonzalez,Brooks,qmurphy@example.org
+7,102,74,40,105,37.2,0.204,45,0,Pastaza,Cheryl Flowers,Reid,jmitchell@example.org
+0,114,80,34,285,44.2,0.167,27,0,Zamora Chinchipe,Toni Harris,Davis,owensbianca@example.com
+2,100,64,23,0,29.7,0.368,21,0,Imbabura,Nicholas Ramirez,Walker,paullopez@example.com
+0,131,88,0,0,31.6,0.743,32,1,Loja,Hayden Chandler,Lopez,zmurillo@example.net
+6,104,74,18,156,29.9,0.722,41,1,Loja,Keith Harper,Armstrong,john39@example.org
+3,148,66,25,0,32.5,0.256,22,0,Napo,Jo Winters,Ward,amandaboyd@example.com
+4,120,68,0,0,29.6,0.709,34,0,Guayas,Bruce Moore,Edwards,ymorris@example.com
+4,110,66,0,0,31.9,0.471,29,0,Bolívar,John Ross,Rice,mlowe@example.com
+3,111,90,12,78,28.4,0.495,29,0,Guayas,Rebecca Brown,Jones,flemingangela@example.org
+6,102,82,0,0,30.8,0.18,36,1,Esmeraldas,Ellen Rodriguez,Harris,lopezeric@example.com
+6,134,70,23,130,35.4,0.542,29,1,Zamora Chinchipe,Alan Navarro,Pitts,henry49@example.com
+2,87,0,23,0,28.9,0.773,25,0,Chimborazo,Jamie Miller,Mitchell,ddougherty@example.org
+1,79,60,42,48,43.5,0.678,23,0,Guayas,Eric Wright,Stein,caleb79@example.net
+2,75,64,24,55,29.7,0.37,33,0,Orellana,Kathryn Anthony,Wong,brendacook@example.org
+8,179,72,42,130,32.7,0.719,36,1,Guayas,Katherine Reed,Singh,charlesconley@example.org
+6,85,78,0,0,31.2,0.382,42,0,Santa Elena,Mrs. Tanya Moore,Underwood,laurenruiz@example.net
+0,129,110,46,130,67.1,0.319,26,1,Santo Domingo de los Tsáchilas,James Shaffer,Caldwell,fsimmons@example.net
+5,143,78,0,0,45.0,0.19,47,0,Los Ríos,Julie Roberts,Ward,james08@example.com
+5,130,82,0,0,39.1,0.956,37,1,Loja,Lindsey Jones,Burns,jnichols@example.com
+6,87,80,0,0,23.2,0.084,32,0,Santo Domingo de los Tsáchilas,Joseph Boyd,Flores,larsencynthia@example.com
+0,119,64,18,92,34.9,0.725,23,0,Galápagos,Emma Price,Maxwell,ritaberry@example.com
+1,0,74,20,23,27.7,0.299,21,0,Zamora Chinchipe,Jerry Michael,Stephenson,iparks@example.org
+5,73,60,0,0,26.8,0.268,27,0,Orellana,Vanessa Hutchinson,Johnson,weberkim@example.net
+4,141,74,0,0,27.6,0.244,40,0,Napo,Jessica Nixon,Wright,xsnow@example.com
+7,194,68,28,0,35.9,0.745,41,1,Zamora Chinchipe,Valerie Nguyen,Snyder,kristopherwilson@example.com
+8,181,68,36,495,30.1,0.615,60,1,Manabí,Felicia Collier,Petersen,barrettlindsey@example.org
+1,128,98,41,58,32.0,1.321,33,1,Morona Santiago,Michelle Deleon PhD,Green,mstuart@example.com
+8,109,76,39,114,27.9,0.64,31,1,Sucumbíos,Tammy Perez,Lee,sgriffin@example.com
+5,139,80,35,160,31.6,0.361,25,1,Guayas,Kyle Brooks,Black,wobrien@example.com
+3,111,62,0,0,22.6,0.142,21,0,Cañar,Heidi Ruiz,Turner,terristephens@example.com
+9,123,70,44,94,33.1,0.374,40,0,Los Ríos,Sheryl Kim,Smith,chrisbishop@example.com
+7,159,66,0,0,30.4,0.383,36,1,Cañar,Bobby Arnold,Burke,vhenderson@example.net
+11,135,0,0,0,52.3,0.578,40,1,Santo Domingo de los Tsáchilas,Paula Briggs,Mitchell,brian16@example.com
+8,85,55,20,0,24.4,0.136,42,0,Napo,Crystal Schroeder,Strong,gkramer@example.net
+5,158,84,41,210,39.4,0.395,29,1,Orellana,Amy Bernard,Bryan,cynthia48@example.net
+1,105,58,0,0,24.3,0.187,21,0,Carchi,Timothy Anderson,Miller,johnsoncassandra@example.org
+3,107,62,13,48,22.9,0.678,23,1,Morona Santiago,Janet Wilson,Foster,reynoldslawrence@example.org
+4,109,64,44,99,34.8,0.905,26,1,Esmeraldas,Juan Farmer,Mendoza,burgessmichael@example.com
+4,148,60,27,318,30.9,0.15,29,1,Santa Elena,John Butler,Tran,sherry80@example.com
+0,113,80,16,0,31.0,0.874,21,0,Napo,Theodore Baker,Medina,icharles@example.com
+1,138,82,0,0,40.1,0.236,28,0,Chimborazo,Brad Jones,Kelly,alexander65@example.org
+0,108,68,20,0,27.3,0.787,32,0,Santa Elena,Robert Sanders,Scott,meyercassandra@example.com
+2,99,70,16,44,20.4,0.235,27,0,Cañar,Meredith Hart,Lowe,mdavis@example.net
+6,103,72,32,190,37.7,0.324,55,0,Tungurahua,Brandy Wallace,Hall,kwhite@example.com
+5,111,72,28,0,23.9,0.407,27,0,Santa Elena,Kevin Little,Sanchez,justin40@example.org
+8,196,76,29,280,37.5,0.605,57,1,Loja,Jason Tran,Perkins,lisaporter@example.net
+5,162,104,0,0,37.7,0.151,52,1,El Oro,Deborah Turner,Brown,kyle37@example.net
+1,96,64,27,87,33.2,0.289,21,0,Manabí,Larry Mccarthy,Hardin,tayloranderson@example.com
+7,184,84,33,0,35.5,0.355,41,1,Azuay,Theresa Thomas,Sampson,ljones@example.org
+2,81,60,22,0,27.7,0.29,25,0,Napo,Barbara Harris,Payne,dillonjohnson@example.org
+0,147,85,54,0,42.8,0.375,24,0,Loja,Pamela Jackson,Rodriguez,jeremy27@example.org
+7,179,95,31,0,34.2,0.164,60,0,Chimborazo,Tracy Miller,Braun,brandon17@example.org
+0,140,65,26,130,42.6,0.431,24,1,Galápagos,Sandra Ali,Brooks,colebrown@example.org
+9,112,82,32,175,34.2,0.26,36,1,Loja,Michele Green,Rangel,novakjennifer@example.org
+12,151,70,40,271,41.8,0.742,38,1,Chimborazo,Derrick Nguyen,Miller,kyle59@example.net
+5,109,62,41,129,35.8,0.514,25,1,Los Ríos,Jeffrey Barr,Patel,cynthiathomas@example.org
+6,125,68,30,120,30.0,0.464,32,0,El Oro,Claudia Hill,Pennington,kimberly66@example.com
+5,85,74,22,0,29.0,1.224,32,1,Pichincha,Loretta Chavez,Smith,nancy35@example.com
+5,112,66,0,0,37.8,0.261,41,1,Santo Domingo de los Tsáchilas,Madeline Ford,Noble,fgarcia@example.net
+0,177,60,29,478,34.6,1.072,21,1,Napo,Mary Forbes,Daniels,tinarose@example.com
+2,158,90,0,0,31.6,0.805,66,1,Morona Santiago,Robin Thompson,Contreras,michaeljoseph@example.com
+7,119,0,0,0,25.2,0.209,37,0,Carchi,Dustin Stewart,Moss,casey14@example.net
+7,142,60,33,190,28.8,0.687,61,0,Tungurahua,Robert Boyd,Hunt,bhall@example.net
+1,100,66,15,56,23.6,0.666,26,0,Galápagos,David Hart,Olson,wilsongary@example.com
+1,87,78,27,32,34.6,0.101,22,0,Manabí,Wayne Campbell,Hogan,robersonkelly@example.com
+0,101,76,0,0,35.7,0.198,26,0,Santa Elena,Michelle Combs,Atkins,ericjohnston@example.com
+3,162,52,38,0,37.2,0.652,24,1,Bolívar,Kimberly Richards,Rogers,nicholasmendoza@example.org
+4,197,70,39,744,36.7,2.329,31,0,Esmeraldas,Samuel Crawford,Mitchell,aliciajenkins@example.com
+0,117,80,31,53,45.2,0.089,24,0,Manabí,David Hamilton,Schaefer,henry56@example.org
+4,142,86,0,0,44.0,0.645,22,1,Morona Santiago,Julie Montoya,Farley,brian93@example.org
+6,134,80,37,370,46.2,0.238,46,1,Cañar,John Ross,Miller,ggreene@example.com
+1,79,80,25,37,25.4,0.583,22,0,Santo Domingo de los Tsáchilas,David Elliott,Morales,michellebradshaw@example.com
+4,122,68,0,0,35.0,0.394,29,0,Orellana,Jennifer Stanton,Hunter,michael85@example.org
+3,74,68,28,45,29.7,0.293,23,0,Cotopaxi,Katelyn Boyd,Hamilton,debrajones@example.org
+4,171,72,0,0,43.6,0.479,26,1,Guayas,Katelyn Martin,Duke,gwendolynmarsh@example.net
+7,181,84,21,192,35.9,0.586,51,1,Morona Santiago,Randy Campbell,Mercer,michael40@example.org
+0,179,90,27,0,44.1,0.686,23,1,Azuay,Johnathan Patterson,Evans,uellis@example.org
+9,164,84,21,0,30.8,0.831,32,1,Carchi,Carolyn Rodriguez,Carpenter,williamsbethany@example.com
+0,104,76,0,0,18.4,0.582,27,0,Los Ríos,Jonathan Owens,Hernandez,vramirez@example.org
+1,91,64,24,0,29.2,0.192,21,0,Chimborazo,Matthew Taylor,Blake,williamsongrant@example.org
+4,91,70,32,88,33.1,0.446,22,0,Zamora Chinchipe,Nicole Lane,Taylor,kmorris@example.net
+3,139,54,0,0,25.6,0.402,22,1,El Oro,Roger Blevins,Miller,patriciamatthews@example.net
+6,119,50,22,176,27.1,1.318,33,1,Galápagos,Megan Ewing,Ross,gbautista@example.net
+2,146,76,35,194,38.2,0.329,29,0,Santa Elena,Beverly Moore,Wilson,nicole48@example.net
+9,184,85,15,0,30.0,1.213,49,1,El Oro,David Richardson,Perry,catherinechapman@example.org
+10,122,68,0,0,31.2,0.258,41,0,Chimborazo,Sydney Williams,Fernandez,walter04@example.org
+0,165,90,33,680,52.3,0.427,23,0,Esmeraldas,Michael Savage,Hobbs,pingram@example.org
+9,124,70,33,402,35.4,0.282,34,0,Santo Domingo de los Tsáchilas,John Morgan,Bradford,kimberly06@example.com
+1,111,86,19,0,30.1,0.143,23,0,Morona Santiago,Adam Combs,Riley,lauren46@example.com
+9,106,52,0,0,31.2,0.38,42,0,Pichincha,John Gonzalez,Benson,amanda65@example.net
+2,129,84,0,0,28.0,0.284,27,0,Napo,Nicole Walsh,Schmidt,davidmoore@example.com
+2,90,80,14,55,24.4,0.249,24,0,Sucumbíos,David Santos,Daniels,deborahmclaughlin@example.org
+0,86,68,32,0,35.8,0.238,25,0,Cotopaxi,Rachel Martin,Carter,rojasstephanie@example.net
+12,92,62,7,258,27.6,0.926,44,1,Morona Santiago,Marvin Small,Simpson,jriddle@example.org
+1,113,64,35,0,33.6,0.543,21,1,El Oro,James Blevins,Hancock,richard71@example.org
+3,111,56,39,0,30.1,0.557,30,0,Esmeraldas,Jeremy Ali,Jacobson,bhines@example.org
+2,114,68,22,0,28.7,0.092,25,0,Azuay,Frank Griffin,Werner,hcurry@example.org
+1,193,50,16,375,25.9,0.655,24,0,Cañar,Elaine Meyer,Daniel,pattersonrachel@example.org
+11,155,76,28,150,33.3,1.353,51,1,El Oro,Mary Gonzales,Rivera,kimberly06@example.org
+3,191,68,15,130,30.9,0.299,34,0,Tungurahua,Kathleen Galloway,Cabrera,webbamber@example.org
+3,141,0,0,0,30.0,0.761,27,1,Cañar,Steven Williams,Jones,kimberly50@example.org
+4,95,70,32,0,32.1,0.612,24,0,Pastaza,Jesse Davis,Clements,wangjessica@example.org
+3,142,80,15,0,32.4,0.2,63,0,Carchi,Paul Mccormick,Gonzales,wsnyder@example.net
+4,123,62,0,0,32.0,0.226,35,1,Santo Domingo de los Tsáchilas,Laura Washington,Gallegos,samanthabaird@example.com
+5,96,74,18,67,33.6,0.997,43,0,Tungurahua,Autumn Stafford,Blake,ymolina@example.org
+0,138,0,0,0,36.3,0.933,25,1,Orellana,Michelle Stephens,Garcia,alice32@example.org
+2,128,64,42,0,40.0,1.101,24,0,Guayas,Reginald Suarez,Michael,farrelldebbie@example.com
+0,102,52,0,0,25.1,0.078,21,0,Guayas,Ryan Carpenter,Wilson,sbarrera@example.com
+2,146,0,0,0,27.5,0.24,28,1,Orellana,Samantha Thompson,Brennan,martinezstephanie@example.net
+10,101,86,37,0,45.6,1.136,38,1,Esmeraldas,Robert Miller,Rhodes,waltonmark@example.net
+2,108,62,32,56,25.2,0.128,21,0,Esmeraldas,Ashley Kelley,Kim,stevenbriggs@example.org
+3,122,78,0,0,23.0,0.254,40,0,Galápagos,Samantha Juarez,Bond,arnoldjennifer@example.net
+1,71,78,50,45,33.2,0.422,21,0,Cañar,Rachel Taylor,Murray,butlerjerry@example.org
+13,106,70,0,0,34.2,0.251,52,0,Morona Santiago,Carol Snyder,Johnson,gwilson@example.org
+2,100,70,52,57,40.5,0.677,25,0,Los Ríos,Lisa Jackson,Hall,jackie21@example.org
+7,106,60,24,0,26.5,0.296,29,1,El Oro,James Davis,Howard,michael82@example.net
+0,104,64,23,116,27.8,0.454,23,0,Carchi,Larry Lopez,Mills,hornematthew@example.org
+5,114,74,0,0,24.9,0.744,57,0,Cañar,Daniel Walker,Kane,scottjennifer@example.com
+2,108,62,10,278,25.3,0.881,22,0,Cotopaxi,William Harris,Wiley,debraclark@example.net
+0,146,70,0,0,37.9,0.334,28,1,Cañar,Melissa Rodriguez,Mendez,laurablair@example.net
+10,129,76,28,122,35.9,0.28,39,0,Chimborazo,Tony Giles,Davis,mccannbill@example.org
+7,133,88,15,155,32.4,0.262,37,0,Tungurahua,Noah White,Garcia,lawrence79@example.org
+7,161,86,0,0,30.4,0.165,47,1,Cotopaxi,Bradley Miller,Mcconnell,jwebster@example.com
+2,108,80,0,0,27.0,0.259,52,1,Cotopaxi,David Perry,Burton,stevensdoris@example.com
+7,136,74,26,135,26.0,0.647,51,0,Pichincha,Brandon Warren,Prince,ricebrittany@example.net
+5,155,84,44,545,38.7,0.619,34,0,Zamora Chinchipe,Austin Hancock,Roberts,jonescynthia@example.net
+1,119,86,39,220,45.6,0.808,29,1,Cotopaxi,Megan Martin,Smith,erica04@example.org
+4,96,56,17,49,20.8,0.34,26,0,Los Ríos,Jose Velazquez,Rivas,huntveronica@example.net
+5,108,72,43,75,36.1,0.263,33,0,Bolívar,Jeffrey Rios,Cook,james25@example.com
+0,78,88,29,40,36.9,0.434,21,0,Azuay,Charlotte Logan,Atkins,jaygarcia@example.net
+0,107,62,30,74,36.6,0.757,25,1,Morona Santiago,Deborah Ford,Burns,johnsonpamela@example.org
+2,128,78,37,182,43.3,1.224,31,1,Manabí,Hector Anderson,Stone,mark08@example.org
+1,128,48,45,194,40.5,0.613,24,1,Carchi,Daniel Taylor,Miller,srowe@example.net
+0,161,50,0,0,21.9,0.254,65,0,Sucumbíos,Andrew Boyer,Stevenson,jaredjensen@example.org
+6,151,62,31,120,35.5,0.692,28,0,Santa Elena,Sandra Norton,Cook,nicholas88@example.org
+2,146,70,38,360,28.0,0.337,29,1,Manabí,Holly Lopez,Jenkins,jennifer38@example.org
+0,126,84,29,215,30.7,0.52,24,0,Bolívar,Harry Blake,Walker,travishayes@example.com
+14,100,78,25,184,36.6,0.412,46,1,Guayas,John Lloyd,Bennett,haroldreed@example.net
+8,112,72,0,0,23.6,0.84,58,0,Sucumbíos,Shelby Donovan,Wilcox,grantallen@example.com
+0,167,0,0,0,32.3,0.839,30,1,Galápagos,Margaret Thompson,Jenkins,rose01@example.com
+2,144,58,33,135,31.6,0.422,25,1,Zamora Chinchipe,Lauren Patterson,Mills,mstewart@example.net
+5,77,82,41,42,35.8,0.156,35,0,Pichincha,Charles Hogan,Guerra,johnsonsteven@example.com
+5,115,98,0,0,52.9,0.209,28,1,Galápagos,Jennifer Coleman,Hale,mcgrathlatasha@example.com
+3,150,76,0,0,21.0,0.207,37,0,Imbabura,Lisa Carter,Russell,aschaefer@example.com
+2,120,76,37,105,39.7,0.215,29,0,Carchi,Kevin Russo,Greene,dgutierrez@example.com
+10,161,68,23,132,25.5,0.326,47,1,Pastaza,Kimberly Clark,Williams,icarter@example.org
+0,137,68,14,148,24.8,0.143,21,0,Santa Elena,Patricia Cooley,Wilson,lestrada@example.com
+0,128,68,19,180,30.5,1.391,25,1,Imbabura,Tammy Clark,Blankenship,christopherallen@example.org
+2,124,68,28,205,32.9,0.875,30,1,Morona Santiago,Andrew Robinson,Lee,qmartinez@example.org
+6,80,66,30,0,26.2,0.313,41,0,Esmeraldas,Alexander Rodriguez,Turner,stewartjustin@example.org
+0,106,70,37,148,39.4,0.605,22,0,Loja,Jessica Koch,Mathews,jason98@example.org
+2,155,74,17,96,26.6,0.433,27,1,Galápagos,Brian Hardin,Robinson,toddelaine@example.org
+3,113,50,10,85,29.5,0.626,25,0,Galápagos,Ryan Cox,James,ohenry@example.org
+7,109,80,31,0,35.9,1.127,43,1,Galápagos,Diane Lee,King,lawrencechristina@example.com
+2,112,68,22,94,34.1,0.315,26,0,Tungurahua,Kimberly Parsons,Shepard,yvelez@example.com
+3,99,80,11,64,19.3,0.284,30,0,Morona Santiago,Brent Cruz,Green,cranemadison@example.org
+3,182,74,0,0,30.5,0.345,29,1,El Oro,Joshua Fowler,Graves,andrewvalenzuela@example.com
+3,115,66,39,140,38.1,0.15,28,0,Napo,Jamie Rivas,Rodriguez,nicole81@example.net
+6,194,78,0,0,23.5,0.129,59,1,Imbabura,Daniel Allen,Hill,qblake@example.net
+4,129,60,12,231,27.5,0.527,31,0,Pichincha,Brandi Mcdonald,Taylor,deborah21@example.com
+3,112,74,30,0,31.6,0.197,25,1,Imbabura,David Palmer,Peters,tyronejohnson@example.org
+0,124,70,20,0,27.4,0.254,36,1,Los Ríos,Kathy Lee,Griffith,brian87@example.org
+13,152,90,33,29,26.8,0.731,43,1,Cañar,Cassandra Brown,Young,kelly49@example.com
+2,112,75,32,0,35.7,0.148,21,0,Chimborazo,Karen Rose,Ray,howarddominic@example.com
+1,157,72,21,168,25.6,0.123,24,0,Bolívar,Joseph Dougherty,Middleton,kyle30@example.org
+1,122,64,32,156,35.1,0.692,30,1,Los Ríos,Ann Rogers,Burnett,whitneyjason@example.org
+10,179,70,0,0,35.1,0.2,37,0,Los Ríos,Jonathan Woods,Young,hernandezpeter@example.org
+2,102,86,36,120,45.5,0.127,23,1,Santo Domingo de los Tsáchilas,Gene Tran,Larson,nancyduran@example.org
+6,105,70,32,68,30.8,0.122,37,0,Guayas,Sierra Kaufman,Andrews,keith26@example.com
+8,118,72,19,0,23.1,1.476,46,0,Tungurahua,Lindsay Andrews,Wilcox,owensbrenda@example.net
+2,87,58,16,52,32.7,0.166,25,0,Manabí,Matthew Marshall,Howell,aberry@example.org
+1,180,0,0,0,43.3,0.282,41,1,Cañar,Paul Moore,Jones,colleen97@example.org
+12,106,80,0,0,23.6,0.137,44,0,Pastaza,Dr. Bob Taylor,Hernandez,ashleymiller@example.org
+1,95,60,18,58,23.9,0.26,22,0,Sucumbíos,Noah Bird,Nichols,cynthiabenson@example.net
+0,165,76,43,255,47.9,0.259,26,0,Pichincha,Kelly Garcia,Stone,kimberlysmith@example.org
+0,117,0,0,0,33.8,0.932,44,0,Santo Domingo de los Tsáchilas,Andrew Miller,Foley,tewing@example.net
+5,115,76,0,0,31.2,0.343,44,1,Esmeraldas,Sara Hill,Daugherty,ashleymartinez@example.org
+9,152,78,34,171,34.2,0.893,33,1,Loja,Katherine Brown MD,Hoffman,derricknorris@example.com
+7,178,84,0,0,39.9,0.331,41,1,Santo Domingo de los Tsáchilas,Tara Guzman,Morris,robert33@example.net
+1,130,70,13,105,25.9,0.472,22,0,Pastaza,Joel Hansen IV,Morgan,bankshector@example.org
+1,95,74,21,73,25.9,0.673,36,0,Manabí,Evan Robinson,Frazier,tbaker@example.com
+1,0,68,35,0,32.0,0.389,22,0,Bolívar,Amanda Mendez,Mcpherson,gregory57@example.org
+5,122,86,0,0,34.7,0.29,33,0,Imbabura,Cameron Morse,Williams,blevinsrobert@example.com
+8,95,72,0,0,36.8,0.485,57,0,Sucumbíos,Shelley Wilson,Avery,millsapril@example.com
+8,126,88,36,108,38.5,0.349,49,0,Napo,Michael Herrera,Ware,garciaamy@example.com
+1,139,46,19,83,28.7,0.654,22,0,Los Ríos,Becky Nelson,Hubbard,daryl68@example.com
+3,116,0,0,0,23.5,0.187,23,0,Sucumbíos,David Robinson,White,valerie97@example.net
+3,99,62,19,74,21.8,0.279,26,0,El Oro,Christina Payne,Dean,jgarcia@example.org
+5,0,80,32,0,41.0,0.346,37,1,Carchi,Katherine Fowler,Thomas,jason92@example.com
+4,92,80,0,0,42.2,0.237,29,0,Manabí,Steven Johnson,Phillips,melissa25@example.com
+4,137,84,0,0,31.2,0.252,30,0,Santo Domingo de los Tsáchilas,Robert Gregory,Burch,jason89@example.org
+3,61,82,28,0,34.4,0.243,46,0,Los Ríos,Mariah Thomas,Grant,olam@example.net
+1,90,62,12,43,27.2,0.58,24,0,Morona Santiago,Jack Smith,Mays,aaronmendez@example.com
+3,90,78,0,0,42.7,0.559,21,0,Sucumbíos,Stephanie Hopkins,Green,iwhite@example.org
+9,165,88,0,0,30.4,0.302,49,1,Esmeraldas,Amber Perez,Dixon,schwartzsabrina@example.net
+1,125,50,40,167,33.3,0.962,28,1,Carchi,Ian Nichols,Joseph,phillipsjoshua@example.org
+13,129,0,30,0,39.9,0.569,44,1,Los Ríos,Cindy Lane,Nelson,allison79@example.net
+12,88,74,40,54,35.3,0.378,48,0,Sucumbíos,Dakota Haney,Shepard,courtneybrown@example.com
+1,196,76,36,249,36.5,0.875,29,1,Pastaza,Chad Phillips,Henderson,rwallace@example.com
+5,189,64,33,325,31.2,0.583,29,1,Morona Santiago,John Fisher,Howard,psimpson@example.com
+5,158,70,0,0,29.8,0.207,63,0,Galápagos,Donna Lee,Hayes,kyle26@example.net
+5,103,108,37,0,39.2,0.305,65,0,Cotopaxi,Kristina Ray,Swanson,paulapowers@example.net
+4,146,78,0,0,38.5,0.52,67,1,Bolívar,Robert Johnson,Blanchard,garyschwartz@example.org
+4,147,74,25,293,34.9,0.385,30,0,Cotopaxi,Amanda Vasquez,Johnson,michaelwalter@example.org
+5,99,54,28,83,34.0,0.499,30,0,El Oro,Austin Alexander,Jones,brownsharon@example.com
+6,124,72,0,0,27.6,0.368,29,1,Imbabura,Amanda Davis,Hunt,glenwatson@example.com
+0,101,64,17,0,21.0,0.252,21,0,Cañar,Amanda Taylor,Franco,jesus38@example.net
+3,81,86,16,66,27.5,0.306,22,0,Morona Santiago,Marilyn Sanders,Davis,christopherbarajas@example.org
+1,133,102,28,140,32.8,0.234,45,1,Napo,Johnny Rodriguez,Flores,patricia15@example.com
+3,173,82,48,465,38.4,2.137,25,1,Cotopaxi,Diane Roth,Diaz,kurtjones@example.com
+0,118,64,23,89,0.0,1.731,21,0,El Oro,Ryan Bell,Calderon,owillis@example.com
+0,84,64,22,66,35.8,0.545,21,0,Santo Domingo de los Tsáchilas,Kimberly Jones,Miller,ryan23@example.org
+2,105,58,40,94,34.9,0.225,25,0,Galápagos,Nicole Joyce,Peterson,leericky@example.net
+2,122,52,43,158,36.2,0.816,28,0,Bolívar,Michael Perry,Garcia,srobertson@example.org
+12,140,82,43,325,39.2,0.528,58,1,Imbabura,Tammy Kirk,Valencia,fatkinson@example.com
+0,98,82,15,84,25.2,0.299,22,0,Sucumbíos,Steven Sullivan,Jones,murphyashley@example.net
+1,87,60,37,75,37.2,0.509,22,0,Sucumbíos,Mrs. Jennifer Whitehead,Jacobs,johnsongeorge@example.net
+4,156,75,0,0,48.3,0.238,32,1,Bolívar,Joshua Allen,Walker,davidclayton@example.net
+0,93,100,39,72,43.4,1.021,35,0,Santo Domingo de los Tsáchilas,Alison Coleman,Ward,gonzalezjennifer@example.net
+1,107,72,30,82,30.8,0.821,24,0,Santa Elena,Melissa Campbell,Singh,landerson@example.com
+0,105,68,22,0,20.0,0.236,22,0,Azuay,Nichole Soto,Cook,erinstevens@example.com
+1,109,60,8,182,25.4,0.947,21,0,Carchi,Diane Woods,Long,cindybrown@example.net
+1,90,62,18,59,25.1,1.268,25,0,Sucumbíos,Catherine Matthews,Cervantes,vincent68@example.com
+1,125,70,24,110,24.3,0.221,25,0,Cañar,James Martinez,Barber,jacksonjoseph@example.com
+1,119,54,13,50,22.3,0.205,24,0,Santo Domingo de los Tsáchilas,Tammy Moore,Parker,robinsummers@example.org
+5,116,74,29,0,32.3,0.66,35,1,Los Ríos,Eric Wright,Mckay,shannongarcia@example.net
+8,105,100,36,0,43.3,0.239,45,1,Orellana,David Baker,Douglas,nashtiffany@example.com
+5,144,82,26,285,32.0,0.452,58,1,Orellana,Megan Manning,Olson,richardparker@example.com
+3,100,68,23,81,31.6,0.949,28,0,Tungurahua,Alexandria Garcia,Watson,luceroemily@example.org
+1,100,66,29,196,32.0,0.444,42,0,Los Ríos,Christine Hall,Huerta,briangeorge@example.net
+5,166,76,0,0,45.7,0.34,27,1,Orellana,Taylor Davenport,Vasquez,ffischer@example.org
+1,131,64,14,415,23.7,0.389,21,0,Santa Elena,Nicole Bradshaw,Anderson,wthomas@example.net
+4,116,72,12,87,22.1,0.463,37,0,Guayas,Keith Carlson,Holt,schwartzkimberly@example.com
+4,158,78,0,0,32.9,0.803,31,1,Galápagos,Bonnie Watts,Vasquez,kathrynward@example.net
+2,127,58,24,275,27.7,1.6,25,0,Galápagos,Lorraine Smith,Sanchez,bbriggs@example.net
+3,96,56,34,115,24.7,0.944,39,0,Morona Santiago,Rebecca Perez,Peters,hwright@example.net
+0,131,66,40,0,34.3,0.196,22,1,Tungurahua,Lisa Tanner,Shaw,scottwong@example.com
+3,82,70,0,0,21.1,0.389,25,0,Sucumbíos,Victoria Brown,Benson,brittanybenson@example.com
+3,193,70,31,0,34.9,0.241,25,1,Orellana,Cassandra Palmer,Parker,whiterebecca@example.org
+4,95,64,0,0,32.0,0.161,31,1,Pichincha,Alexandra Baldwin,Hernandez,margaret76@example.net
+6,137,61,0,0,24.2,0.151,55,0,Imbabura,Kevin Jones,Phillips,tylersimpson@example.net
+5,136,84,41,88,35.0,0.286,35,1,Santo Domingo de los Tsáchilas,Lisa Norris,Powell,mvargas@example.com
+9,72,78,25,0,31.6,0.28,38,0,Santa Elena,Erin Young,Brown,sgarrett@example.org
+5,168,64,0,0,32.9,0.135,41,1,Galápagos,Brooke Contreras,Sparks,rwalker@example.org
+2,123,48,32,165,42.1,0.52,26,0,Carchi,Anthony Lopez,Lee,abrock@example.net
+4,115,72,0,0,28.9,0.376,46,1,Esmeraldas,Tammy Le,Greene,hayden02@example.net
+0,101,62,0,0,21.9,0.336,25,0,Loja,Donna Cummings,Kline,baileydustin@example.com
+8,197,74,0,0,25.9,1.191,39,1,Napo,Julian Stephens,Woods,edwardoconnor@example.net
+1,172,68,49,579,42.4,0.702,28,1,El Oro,Donald Richardson,Martin,sharon17@example.org
+6,102,90,39,0,35.7,0.674,28,0,Pichincha,Beth Leon,Owens,millerjulian@example.org
+1,112,72,30,176,34.4,0.528,25,0,Esmeraldas,Kimberly Valdez,Moore,reginaldcline@example.com
+1,143,84,23,310,42.4,1.076,22,0,Bolívar,Jessica Watson,Warner,jason09@example.org
+1,143,74,22,61,26.2,0.256,21,0,Napo,Karen Knight,Blanchard,vrios@example.com
+0,138,60,35,167,34.6,0.534,21,1,Pichincha,Allen Nixon,Kim,leemorrison@example.com
+3,173,84,33,474,35.7,0.258,22,1,Santo Domingo de los Tsáchilas,Laura Bryant,Perez,leewilliam@example.net
+1,97,68,21,0,27.2,1.095,22,0,Imbabura,Eric Bailey,Blankenship,kevinmiller@example.com
+4,144,82,32,0,38.5,0.554,37,1,Bolívar,Ashley Villegas,Mills,pwells@example.com
+1,83,68,0,0,18.2,0.624,27,0,Chimborazo,Sabrina Green,Hawkins,chadcollins@example.net
+3,129,64,29,115,26.4,0.219,28,1,Orellana,Jack Baker,Ibarra,rjoseph@example.org
+1,119,88,41,170,45.3,0.507,26,0,Azuay,Megan Medina,Evans,davisbrandon@example.org
+2,94,68,18,76,26.0,0.561,21,0,Galápagos,Adam Brown,Welch,robert68@example.org
+0,102,64,46,78,40.6,0.496,21,0,Galápagos,Joseph Young,Roberts,cynthiascott@example.net
+2,115,64,22,0,30.8,0.421,21,0,Napo,Kathy Daniels,Gill,nlopez@example.com
+8,151,78,32,210,42.9,0.516,36,1,Tungurahua,Robert Rogers,Dillon,nancyclark@example.net
+4,184,78,39,277,37.0,0.264,31,1,Pastaza,Jennifer Fox,Williams,andreasmith@example.net
+0,94,0,0,0,0.0,0.256,25,0,Azuay,Jeffrey Novak,Wood,smendez@example.net
+1,181,64,30,180,34.1,0.328,38,1,Chimborazo,Sara Wright,Smith,michael35@example.org
+0,135,94,46,145,40.6,0.284,26,0,Morona Santiago,David Oconnell,Roy,wbond@example.org
+1,95,82,25,180,35.0,0.233,43,1,Los Ríos,Patricia Berry,Hernandez,adam51@example.org
+2,99,0,0,0,22.2,0.108,23,0,Cañar,Adam Sullivan,Clark,kimberly76@example.org
+3,89,74,16,85,30.4,0.551,38,0,Los Ríos,Joshua Abbott,Bass,laurasmith@example.org
+1,80,74,11,60,30.0,0.527,22,0,Santa Elena,Sean Rodgers,Bell,angelica51@example.net
+2,139,75,0,0,25.6,0.167,29,0,Esmeraldas,Christine Lewis,Bell,marcus63@example.com
+1,90,68,8,0,24.5,1.138,36,0,Chimborazo,Ariel Smith,Harris,aaronriggs@example.org
+0,141,0,0,0,42.4,0.205,29,1,Pastaza,Heather Bell,Arias,wscott@example.org
+12,140,85,33,0,37.4,0.244,41,0,Cotopaxi,Sarah Valencia,David,sara92@example.org
+5,147,75,0,0,29.9,0.434,28,0,Esmeraldas,Shane Baldwin,Jackson,nielsenjohnny@example.net
+1,97,70,15,0,18.2,0.147,21,0,Orellana,Sandra Cooper,Bush,nwatkins@example.org
+6,107,88,0,0,36.8,0.727,31,0,Zamora Chinchipe,James Smith,Shelton,bradleyfleming@example.com
+0,189,104,25,0,34.3,0.435,41,1,Carchi,Larry Brown,Sharp,stacy24@example.com
+2,83,66,23,50,32.2,0.497,22,0,Pichincha,Mr. Andrew Nelson,Garcia,jennifer62@example.net
+4,117,64,27,120,33.2,0.23,24,0,Morona Santiago,Paula Miller,Meyers,ryan85@example.net
+8,108,70,0,0,30.5,0.955,33,1,Santo Domingo de los Tsáchilas,Wanda King,Torres,brandi08@example.com
+4,117,62,12,0,29.7,0.38,30,1,Carchi,Rachel Matthews,Bryant,zbutler@example.org
+0,180,78,63,14,59.4,2.42,25,1,Cotopaxi,Douglas Allen,Dominguez,scott20@example.org
+1,100,72,12,70,25.3,0.658,28,0,Guayas,Andrew Khan,Chang,caitlynsmith@example.net
+0,95,80,45,92,36.5,0.33,26,0,Los Ríos,Trevor Torres,Howe,tammy34@example.org
+0,104,64,37,64,33.6,0.51,22,1,Zamora Chinchipe,Mindy Smith,Bell,ulove@example.com
+0,120,74,18,63,30.5,0.285,26,0,Guayas,Ashley Dudley,Gonzalez,sherricross@example.com
+1,82,64,13,95,21.2,0.415,23,0,Bolívar,Kyle Neal,Nolan,jordanlee@example.com
+2,134,70,0,0,28.9,0.542,23,1,Zamora Chinchipe,Lisa Johnston,Alexander,cherylpeters@example.com
+0,91,68,32,210,39.9,0.381,25,0,Los Ríos,Daniel Miller,Moody,warrencase@example.com
+2,119,0,0,0,19.6,0.832,72,0,Carchi,Craig Smith,Woods,alove@example.net
+2,100,54,28,105,37.8,0.498,24,0,Manabí,Trevor Garrett,Saunders,kprice@example.net
+14,175,62,30,0,33.6,0.212,38,1,Cañar,David Zhang,Castro,daniel87@example.com
+1,135,54,0,0,26.7,0.687,62,0,Galápagos,Kevin Morris,Jones,samuel77@example.org
+5,86,68,28,71,30.2,0.364,24,0,Pichincha,Amy Moreno,Wright,melanie96@example.com
+10,148,84,48,237,37.6,1.001,51,1,Pastaza,Chad Jensen,Nichols,robertbutler@example.com
+9,134,74,33,60,25.9,0.46,81,0,Morona Santiago,Kathleen Mitchell,Johnson,harrisonandrew@example.com
+9,120,72,22,56,20.8,0.733,48,0,Napo,Brandi Terry,Moore,durhamelizabeth@example.net
+1,71,62,0,0,21.8,0.416,26,0,Chimborazo,Lucas Robinson,Cummings,jimmy80@example.com
+8,74,70,40,49,35.3,0.705,39,0,Bolívar,Brenda Myers,Conner,andrea65@example.com
+5,88,78,30,0,27.6,0.258,37,0,Orellana,Nicolas Owen,Rollins,hpena@example.net
+10,115,98,0,0,24.0,1.022,34,0,Morona Santiago,Joshua Long,Dorsey,james22@example.net
+0,124,56,13,105,21.8,0.452,21,0,Los Ríos,Dr. Joseph Ramsey,Johnson,melissamills@example.org
+0,74,52,10,36,27.8,0.269,22,0,Pichincha,Melissa Wilson,Sanchez,catherine22@example.net
+0,97,64,36,100,36.8,0.6,25,0,Pichincha,Nichole Hooper,Alexander,luis64@example.org
+8,120,0,0,0,30.0,0.183,38,1,Imbabura,Ronald Mendoza,Farley,vmills@example.net
+6,154,78,41,140,46.1,0.571,27,0,Guayas,Mary Krause,Lara,brianrodriguez@example.org
+1,144,82,40,0,41.3,0.607,28,0,Tungurahua,Charles Aguilar,Garrison,awashington@example.org
+0,137,70,38,0,33.2,0.17,22,0,Manabí,James Frey,Morris,gary40@example.net
+0,119,66,27,0,38.8,0.259,22,0,Tungurahua,Virginia Porter,Robinson,katie14@example.org
+7,136,90,0,0,29.9,0.21,50,0,Galápagos,Robert Nichols,Cain,fernandojohnson@example.org
+4,114,64,0,0,28.9,0.126,24,0,Orellana,Eric Wilkins,King,keith07@example.com
+0,137,84,27,0,27.3,0.231,59,0,Los Ríos,Keith Waller,Ali,crichmond@example.org
+2,105,80,45,191,33.7,0.711,29,1,Bolívar,Michael Bowman,Riggs,rochasharon@example.com
+7,114,76,17,110,23.8,0.466,31,0,Chimborazo,Charles Mcgee,Williams,murphylance@example.com
+8,126,74,38,75,25.9,0.162,39,0,Chimborazo,Rachel Mcdonald,Thomas,christopherjones@example.net
+4,132,86,31,0,28.0,0.419,63,0,El Oro,Carol Williams,Brown,contreraschristina@example.org
+3,158,70,30,328,35.5,0.344,35,1,Los Ríos,Damon Frederick,Ellis,joel47@example.net
+0,123,88,37,0,35.2,0.197,29,0,Pastaza,Sheena Proctor,Martinez,jnelson@example.com
+4,85,58,22,49,27.8,0.306,28,0,Bolívar,Michael Brown,Rodriguez,vhayes@example.org
+0,84,82,31,125,38.2,0.233,23,0,El Oro,Christian Rogers,Booth,joycepoole@example.org
+0,145,0,0,0,44.2,0.63,31,1,Santa Elena,Tyler Lee,Carlson,ellisemma@example.org
+0,135,68,42,250,42.3,0.365,24,1,Zamora Chinchipe,Jenny Cooper,Shelton,hayleycohen@example.com
+1,139,62,41,480,40.7,0.536,21,0,Napo,Scott Ramirez,Morgan,aharrison@example.com
+0,173,78,32,265,46.5,1.159,58,0,Esmeraldas,Ashley Murphy,Griffin,amy37@example.net
+4,99,72,17,0,25.6,0.294,28,0,Galápagos,Frederick Miller,Long,derrick11@example.net
+8,194,80,0,0,26.1,0.551,67,0,Manabí,Richard Schmidt,Martinez,marcusmiller@example.net
+2,83,65,28,66,36.8,0.629,24,0,Carchi,Kimberly Rodriguez,Valdez,amanda05@example.com
+2,89,90,30,0,33.5,0.292,42,0,Sucumbíos,Andrew Higgins,Harris,angela86@example.org
+4,99,68,38,0,32.8,0.145,33,0,Los Ríos,Karen Rocha,James,jean46@example.net
+4,125,70,18,122,28.9,1.144,45,1,Carchi,Linda White,Bryant,jsmith@example.org
+3,80,0,0,0,0.0,0.174,22,0,Pichincha,Brittany Whitehead,Sweeney,victoriamurphy@example.org
+6,166,74,0,0,26.6,0.304,66,0,Bolívar,Edward Garcia,Ward,smithchad@example.net
+5,110,68,0,0,26.0,0.292,30,0,Imbabura,Robert Williams,Smith,jennifertorres@example.net
+2,81,72,15,76,30.1,0.547,25,0,Pastaza,Ana Lee,Shaw,gperez@example.com
+7,195,70,33,145,25.1,0.163,55,1,Cotopaxi,Katie James,Weaver,christopher14@example.com
+6,154,74,32,193,29.3,0.839,39,0,Santa Elena,Samuel Thompson,Rogers,laurabrennan@example.com
+2,117,90,19,71,25.2,0.313,21,0,Zamora Chinchipe,Adam Clark,Dunn,christina89@example.com
+3,84,72,32,0,37.2,0.267,28,0,Morona Santiago,Kelly Garner,Parrish,khamilton@example.com
+6,0,68,41,0,39.0,0.727,41,1,Cañar,Kevin Martinez,Sherman,brad98@example.org
+7,94,64,25,79,33.3,0.738,41,0,Azuay,Rachel Harvey,Medina,lauren10@example.com
+3,96,78,39,0,37.3,0.238,40,0,Azuay,Justin Lawson,Goodman,michelebrown@example.net
+10,75,82,0,0,33.3,0.263,38,0,Morona Santiago,William Petersen,Willis,katherine50@example.com
+0,180,90,26,90,36.5,0.314,35,1,Pichincha,Seth Gonzalez,Jordan,harrisdaniel@example.net
+1,130,60,23,170,28.6,0.692,21,0,Manabí,Shelly Walker,Stevens,nunezpatricia@example.net
+2,84,50,23,76,30.4,0.968,21,0,Orellana,Stephen Hart,Osborne,melindanelson@example.org
+8,120,78,0,0,25.0,0.409,64,0,Azuay,Kenneth Torres,Clark,christopher68@example.com
+12,84,72,31,0,29.7,0.297,46,1,Manabí,Jordan Roach,Petersen,kristenjones@example.net
+0,139,62,17,210,22.1,0.207,21,0,Orellana,James Gonzales,Franklin,robertreeves@example.org
+9,91,68,0,0,24.2,0.2,58,0,Tungurahua,Carrie Anderson,Jackson,diane96@example.net
+2,91,62,0,0,27.3,0.525,22,0,Azuay,Mr. Joseph Walker,Little,christinaclark@example.net
+3,99,54,19,86,25.6,0.154,24,0,Zamora Chinchipe,Jasmine Webb,Humphrey,xcochran@example.net
+3,163,70,18,105,31.6,0.268,28,1,Los Ríos,Kristopher Hall,Sexton,jmonroe@example.net
+9,145,88,34,165,30.3,0.771,53,1,Loja,Summer Smith,Hopkins,johnsonjohn@example.com
+7,125,86,0,0,37.6,0.304,51,0,Tungurahua,Susan Banks,Barber,thomaspatrick@example.com
+13,76,60,0,0,32.8,0.18,41,0,Bolívar,Barbara Thomas,Bailey,erica91@example.org
+6,129,90,7,326,19.6,0.582,60,0,Pastaza,Anthony Mejia,Gibson,kimberly57@example.com
+2,68,70,32,66,25.0,0.187,25,0,Los Ríos,Jon Martin,Mendez,arroyodavid@example.com
+3,124,80,33,130,33.2,0.305,26,0,Esmeraldas,Shaun Haynes,Reynolds,lynchsean@example.com
+6,114,0,0,0,0.0,0.189,26,0,Imbabura,Timothy Rogers,Fisher,courtney11@example.com
+9,130,70,0,0,34.2,0.652,45,1,Tungurahua,Anthony Combs,Vega,acruz@example.net
+3,125,58,0,0,31.6,0.151,24,0,Orellana,Samantha Dominguez,Roberts,xdecker@example.net
+3,87,60,18,0,21.8,0.444,21,0,Napo,Rebecca Harris,Robertson,stephanie49@example.net
+1,97,64,19,82,18.2,0.299,21,0,Pastaza,Brian Jones,Smith,nathanielhawkins@example.net
+3,116,74,15,105,26.3,0.107,24,0,Pastaza,Stephen Hicks,Flowers,karla72@example.com
+0,117,66,31,188,30.8,0.493,22,0,Esmeraldas,Thomas Graham,Pearson,vincentmiller@example.org
+0,111,65,0,0,24.6,0.66,31,0,Tungurahua,Tara Carter,Garcia,wesleywebb@example.com
+2,122,60,18,106,29.8,0.717,22,0,Orellana,Susan Johnson,Haas,xgentry@example.net
+0,107,76,0,0,45.3,0.686,24,0,Bolívar,Michael Jones,Browning,william14@example.net
+1,86,66,52,65,41.3,0.917,29,0,Santa Elena,Erika Ramirez,Taylor,david72@example.net
+6,91,0,0,0,29.8,0.501,31,0,Guayas,Susan Sanchez,Brock,fletcherrussell@example.org
+1,77,56,30,56,33.3,1.251,24,0,Esmeraldas,Ryan Hodge,Morrison,gabrieljackson@example.com
+4,132,0,0,0,32.9,0.302,23,1,Santo Domingo de los Tsáchilas,Terry Thomas MD,Bell,barnettcheyenne@example.com
+0,105,90,0,0,29.6,0.197,46,0,Bolívar,Nicole Bradshaw,Smith,christophermcconnell@example.net
+0,57,60,0,0,21.7,0.735,67,0,Guayas,Bradley Pacheco,Diaz,olivia52@example.org
+0,127,80,37,210,36.3,0.804,23,0,Chimborazo,Nicole Johnson,Osborne,wcobb@example.net
+3,129,92,49,155,36.4,0.968,32,1,Imbabura,Jennifer Lewis,Stewart,georgelang@example.org
+8,100,74,40,215,39.4,0.661,43,1,Tungurahua,Jonathan Jones,Sanchez,fpadilla@example.org
+3,128,72,25,190,32.4,0.549,27,1,Los Ríos,Kelly Walters,Myers,franksanchez@example.net
+10,90,85,32,0,34.9,0.825,56,1,Chimborazo,Kelly Cannon,Chavez,benjamin15@example.net
+4,84,90,23,56,39.5,0.159,25,0,Zamora Chinchipe,Taylor Mitchell,Jones,perezjessica@example.org
+1,88,78,29,76,32.0,0.365,29,0,El Oro,Emily Crawford,Bright,payneeileen@example.org
+8,186,90,35,225,34.5,0.423,37,1,Orellana,Cody Hawkins,Oneal,skhan@example.org
+5,187,76,27,207,43.6,1.034,53,1,Carchi,Heather Green,Warner,eric95@example.org
+4,131,68,21,166,33.1,0.16,28,0,Los Ríos,Michael Juarez,Joseph,bellnicole@example.net
+1,164,82,43,67,32.8,0.341,50,0,Zamora Chinchipe,Erika Lane,Walter,gardnerapril@example.net
+4,189,110,31,0,28.5,0.68,37,0,Sucumbíos,Lori Pittman,Macdonald,ykline@example.com
+1,116,70,28,0,27.4,0.204,21,0,Bolívar,Lindsey Swanson,Haney,bsmith@example.net
+3,84,68,30,106,31.9,0.591,25,0,Loja,Michael Thomas,Fields,bianca20@example.net
+6,114,88,0,0,27.8,0.247,66,0,Carchi,Elizabeth Ortega,Shah,nicolehill@example.com
+1,88,62,24,44,29.9,0.422,23,0,Pichincha,Karen Klein,Hoffman,robinsonsteven@example.org
+1,84,64,23,115,36.9,0.471,28,0,Los Ríos,Kristin Stevens,Salazar,carolherrera@example.com
+7,124,70,33,215,25.5,0.161,37,0,Orellana,John Smith,Davis,kbennett@example.org
+1,97,70,40,0,38.1,0.218,30,0,Pastaza,Courtney Johnson,Park,tmoore@example.org
+8,110,76,0,0,27.8,0.237,58,0,Guayas,Tamara Harris,Maddox,jhicks@example.net
+11,103,68,40,0,46.2,0.126,42,0,Guayas,Richard Simpson,Clark,ialexander@example.com
+11,85,74,0,0,30.1,0.3,35,0,Galápagos,Melissa Coleman,Chan,susanmedina@example.org
+6,125,76,0,0,33.8,0.121,54,1,Zamora Chinchipe,Shawn Williams,Lee,zoneill@example.org
+0,198,66,32,274,41.3,0.502,28,1,Esmeraldas,Steven Graham,Baker,ulewis@example.net
+1,87,68,34,77,37.6,0.401,24,0,Galápagos,Darryl Blankenship,Taylor,clarkrussell@example.net
+6,99,60,19,54,26.9,0.497,32,0,Napo,Mr. Steven Curtis MD,Castillo,tonya47@example.net
+0,91,80,0,0,32.4,0.601,27,0,Loja,Matthew Andrews,Rowe,barneschristian@example.org
+2,95,54,14,88,26.1,0.748,22,0,El Oro,Justin Moss,Krause,sarahhamilton@example.org
+1,99,72,30,18,38.6,0.412,21,0,Cotopaxi,Douglas Holt,Farmer,zwalker@example.org
+6,92,62,32,126,32.0,0.085,46,0,Guayas,Charles Nguyen,Gomez,jameshernandez@example.com
+4,154,72,29,126,31.3,0.338,37,0,Santa Elena,Paula Wade MD,Moore,dbrown@example.org
+0,121,66,30,165,34.3,0.203,33,1,Azuay,Kelly Hernandez,Nunez,rebeccamurray@example.org
+3,78,70,0,0,32.5,0.27,39,0,Pichincha,Virginia Collins,Johnson,robinsonmichaela@example.net
+2,130,96,0,0,22.6,0.268,21,0,Esmeraldas,Steven Vaughn,Davis,robert64@example.net
+3,111,58,31,44,29.5,0.43,22,0,Santo Domingo de los Tsáchilas,Mason Porter,Sullivan,imedina@example.net
+2,98,60,17,120,34.7,0.198,22,0,Esmeraldas,Shannon Fernandez,Davis,rachelwilliams@example.org
+1,143,86,30,330,30.1,0.892,23,0,Pastaza,Kristin Anderson,Sullivan,fspencer@example.org
+1,119,44,47,63,35.5,0.28,25,0,Los Ríos,Justin Smith,Brown,joseph05@example.net
+6,108,44,20,130,24.0,0.813,35,0,Chimborazo,Paul Gray,Underwood,jennifer46@example.org
+2,118,80,0,0,42.9,0.693,21,1,Santo Domingo de los Tsáchilas,Gina Rivera,Rose,melanieyoung@example.net
+10,133,68,0,0,27.0,0.245,36,0,Tungurahua,Shari Norman,Wright,reneerodriguez@example.com
+2,197,70,99,0,34.7,0.575,62,1,Carchi,Daniel Burns,Watts,rodney63@example.org
+0,151,90,46,0,42.1,0.371,21,1,Los Ríos,Sarah Horne,Price,parkmiranda@example.com
+6,109,60,27,0,25.0,0.206,27,0,Imbabura,Casey Stark,Moore,traciephillips@example.net
+12,121,78,17,0,26.5,0.259,62,0,Galápagos,Daniel Mcmahon,Fritz,gholland@example.com
+8,100,76,0,0,38.7,0.19,42,0,Loja,Susan Pittman,Herrera,dmoore@example.net
+8,124,76,24,600,28.7,0.687,52,1,Azuay,Stephanie Haynes,Gutierrez,fnewman@example.com
+1,93,56,11,0,22.5,0.417,22,0,Loja,Anthony Austin,Zhang,tgill@example.com
+8,143,66,0,0,34.9,0.129,41,1,Cañar,Jessica Vang,Lee,jeromesimon@example.com
+6,103,66,0,0,24.3,0.249,29,0,Napo,Yolanda Smith,Knapp,cody55@example.org
+3,176,86,27,156,33.3,1.154,52,1,Santa Elena,Julie Jones,Patterson,larryjones@example.com
+0,73,0,0,0,21.1,0.342,25,0,Cotopaxi,Joseph Baird,Walker,brandon15@example.net
+11,111,84,40,0,46.8,0.925,45,1,Chimborazo,Cynthia Williams,Caldwell,hvasquez@example.org
+2,112,78,50,140,39.4,0.175,24,0,Guayas,Joseph Pineda,Hunt,travis10@example.com
+3,132,80,0,0,34.4,0.402,44,1,Galápagos,Gregory Powell,Ingram,iwhite@example.net
+2,82,52,22,115,28.5,1.699,25,0,Galápagos,Patricia Salas,Perry,shellyday@example.net
+6,123,72,45,230,33.6,0.733,34,0,Morona Santiago,Blake Sandoval,Dorsey,meyermark@example.net
+0,188,82,14,185,32.0,0.682,22,1,Esmeraldas,Travis Hall MD,Allen,howardmarissa@example.org
+0,67,76,0,0,45.3,0.194,46,0,Loja,Wendy Rios,Smith,fitzgeraldantonio@example.com
+1,89,24,19,25,27.8,0.559,21,0,Loja,Darrell Meyer,Park,burchsean@example.com
+1,173,74,0,0,36.8,0.088,38,1,Los Ríos,Sarah Willis,Turner,linda96@example.com
+1,109,38,18,120,23.1,0.407,26,0,Zamora Chinchipe,Jasmine Ward,Barker,gabriella88@example.com
+1,108,88,19,0,27.1,0.4,24,0,Loja,Adam Torres,Boone,qwallace@example.net
+6,96,0,0,0,23.7,0.19,28,0,Cotopaxi,Courtney Humphrey,Carter,cindygomez@example.com
+1,124,74,36,0,27.8,0.1,30,0,Santa Elena,Stephen Krause,Price,njohnson@example.net
+7,150,78,29,126,35.2,0.692,54,1,Carchi,Megan Weber,Butler,sanderstimothy@example.com
+4,183,0,0,0,28.4,0.212,36,1,Bolívar,Wesley Flores,Brown,vfoster@example.org
+1,124,60,32,0,35.8,0.514,21,0,Cañar,Robert Hubbard,Griffin,jesuscollins@example.org
+1,181,78,42,293,40.0,1.258,22,1,Carchi,Samantha Reyes,Rojas,sanchezsharon@example.org
+1,92,62,25,41,19.5,0.482,25,0,Santa Elena,Margaret Edwards,Wheeler,tyler02@example.com
+0,152,82,39,272,41.5,0.27,27,0,Santo Domingo de los Tsáchilas,Michelle Marks,Sherman,bradley92@example.org
+1,111,62,13,182,24.0,0.138,23,0,Bolívar,Stephen Quinn,Gonzalez,zruiz@example.com
+3,106,54,21,158,30.9,0.292,24,0,Bolívar,Jonathan Anderson,Martin,xjackson@example.org
+3,174,58,22,194,32.9,0.593,36,1,Carchi,Dustin Allen,Fritz,troyperkins@example.org
+7,168,88,42,321,38.2,0.787,40,1,Chimborazo,Cristina Perez,Duncan,jennifer20@example.org
+6,105,80,28,0,32.5,0.878,26,0,Napo,Mark Gutierrez,Garcia,zimmermanconnie@example.net
+11,138,74,26,144,36.1,0.557,50,1,Santo Domingo de los Tsáchilas,Daniel Maldonado,Gomez,christianjoseph@example.net
+3,106,72,0,0,25.8,0.207,27,0,Chimborazo,Pamela Jackson,Henderson,danieljohnson@example.net
+6,117,96,0,0,28.7,0.157,30,0,Carchi,Amber Wagner,Hayes,xvasquez@example.org
+2,68,62,13,15,20.1,0.257,23,0,Zamora Chinchipe,Anthony Young,Roberts,amydavenport@example.org
+9,112,82,24,0,28.2,1.282,50,1,Manabí,Susan Griffin,Roth,vwagner@example.net
+0,119,0,0,0,32.4,0.141,24,1,Pichincha,Peter Myers,Le,timothyyoder@example.org
+2,112,86,42,160,38.4,0.246,28,0,Sucumbíos,Stephanie Patel,White,ashleyadams@example.org
+2,92,76,20,0,24.2,1.698,28,0,Cañar,Donald Roy,Velasquez,bjennings@example.org
+6,183,94,0,0,40.8,1.461,45,0,Azuay,Jessica Mcbride,Perez,jeremiahboone@example.com
+0,94,70,27,115,43.5,0.347,21,0,Zamora Chinchipe,Angela Gonzales,Tucker,hilljennifer@example.net
+2,108,64,0,0,30.8,0.158,21,0,Napo,Emily Herring,Olson,odommichael@example.org
+4,90,88,47,54,37.7,0.362,29,0,Guayas,Vanessa Martinez,Novak,westhannah@example.com
+0,125,68,0,0,24.7,0.206,21,0,Cotopaxi,Matthew Padilla,Jones,danielscott@example.net
+0,132,78,0,0,32.4,0.393,21,0,Tungurahua,Michelle Edwards,Day,emily64@example.com
+5,128,80,0,0,34.6,0.144,45,0,Bolívar,Debbie Mendez,Calderon,alisonshaffer@example.com
+4,94,65,22,0,24.7,0.148,21,0,Cañar,Kathryn Davis,Lewis,kennethjones@example.org
+7,114,64,0,0,27.4,0.732,34,1,Sucumbíos,Barbara Kim,Marks,crystalcoleman@example.net
+0,102,78,40,90,34.5,0.238,24,0,Morona Santiago,Savannah Smith,Harrison,juanboyd@example.net
+2,111,60,0,0,26.2,0.343,23,0,Manabí,Mary Bennett,Freeman,heidi59@example.org
+1,128,82,17,183,27.5,0.115,22,0,Galápagos,Jesse Brown,Kemp,johnsonpaul@example.com
+10,92,62,0,0,25.9,0.167,31,0,Pastaza,Victor Pacheco,Fisher,hshah@example.org
+13,104,72,0,0,31.2,0.465,38,1,Imbabura,Christine Morris,Smith,pfrancis@example.net
+5,104,74,0,0,28.8,0.153,48,0,Imbabura,Susan Curtis,Simon,mitchellgutierrez@example.com
+2,94,76,18,66,31.6,0.649,23,0,Imbabura,Holly Hughes,Bradshaw,jennifergonzales@example.com
+7,97,76,32,91,40.9,0.871,32,1,Bolívar,Edward Small,Archer,anne84@example.com
+1,100,74,12,46,19.5,0.149,28,0,Guayas,Michael Stevenson,Willis,david13@example.net
+0,102,86,17,105,29.3,0.695,27,0,Galápagos,Wendy Jackson,Soto,edwin90@example.org
+4,128,70,0,0,34.3,0.303,24,0,Esmeraldas,Mark Oconnor,Garcia,vernonrobinson@example.com
+6,147,80,0,0,29.5,0.178,50,1,Esmeraldas,Adrian Holt,Campos,ambercalhoun@example.org
+4,90,0,0,0,28.0,0.61,31,0,Carchi,Jill Myers,Long,danielandersen@example.net
+3,103,72,30,152,27.6,0.73,27,0,Orellana,Cameron Kaiser,Hernandez,kelsey99@example.net
+2,157,74,35,440,39.4,0.134,30,0,Santo Domingo de los Tsáchilas,Ryan Cooper,Thomas,zsanchez@example.com
+1,167,74,17,144,23.4,0.447,33,1,Sucumbíos,Beth Gordon,Payne,ymercado@example.com
+0,179,50,36,159,37.8,0.455,22,1,Loja,Christopher Watts,Molina,bradleyjohnson@example.com
+11,136,84,35,130,28.3,0.26,42,1,Manabí,Mary Vargas,Brown,steven53@example.net
+0,107,60,25,0,26.4,0.133,23,0,Chimborazo,Rachel Oconnell,Andrews,joshua88@example.net
+1,91,54,25,100,25.2,0.234,23,0,Tungurahua,Robert Ryan,Newman,sarah41@example.com
+1,117,60,23,106,33.8,0.466,27,0,El Oro,Frederick Miller,Ross,jessicamontgomery@example.net
+5,123,74,40,77,34.1,0.269,28,0,Guayas,Andrew Thomas,Vazquez,xrivera@example.org
+2,120,54,0,0,26.8,0.455,27,0,Napo,Heidi Walker,Bailey,kimberly41@example.org
+1,106,70,28,135,34.2,0.142,22,0,Santo Domingo de los Tsáchilas,Dr. Samantha Hernandez DDS,Cook,thomas44@example.com
+2,155,52,27,540,38.7,0.24,25,1,Azuay,Jill Parker,Tanner,perezchristopher@example.net
+2,101,58,35,90,21.8,0.155,22,0,Chimborazo,Tonya Miller,Bishop,joelyang@example.org
+1,120,80,48,200,38.9,1.162,41,0,Napo,Lori Brown,Robinson,alan71@example.net
+11,127,106,0,0,39.0,0.19,51,0,Esmeraldas,Ronald Gomez,Johnson,james75@example.com
+3,80,82,31,70,34.2,1.292,27,1,Morona Santiago,Courtney Palmer,Jensen,montoyajoshua@example.com
+10,162,84,0,0,27.7,0.182,54,0,Napo,Alyssa Contreras,Sullivan,justinroberts@example.net
+1,199,76,43,0,42.9,1.394,22,1,Tungurahua,Jennifer Goodman,Campbell,brandon95@example.net
+8,167,106,46,231,37.6,0.165,43,1,El Oro,Brett Yang,Williams,jennifer46@example.org
+9,145,80,46,130,37.9,0.637,40,1,Pastaza,Austin Martinez,Lopez,peter72@example.net
+6,115,60,39,0,33.7,0.245,40,1,Tungurahua,Yesenia Shepherd,Turner,stevensimon@example.net
+1,112,80,45,132,34.8,0.217,24,0,Loja,Derek Gentry,Jenkins,jameslee@example.org
+4,145,82,18,0,32.5,0.235,70,1,Carchi,Joshua Obrien,Edwards,yrogers@example.com
+10,111,70,27,0,27.5,0.141,40,1,El Oro,Ellen Santos,Stewart,tarcher@example.com
+6,98,58,33,190,34.0,0.43,43,0,Guayas,Mary Barton,Hines,ttanner@example.org
+9,154,78,30,100,30.9,0.164,45,0,Manabí,Tracy Dickson,Aguilar,kelsey29@example.net
+6,165,68,26,168,33.6,0.631,49,0,Tungurahua,Steven Valdez,Wood,pburke@example.com
+1,99,58,10,0,25.4,0.551,21,0,Orellana,Cindy Hodge,Carr,williamoneal@example.net
+10,68,106,23,49,35.5,0.285,47,0,Santo Domingo de los Tsáchilas,Kathy Foster,Spears,connerthomas@example.com
+3,123,100,35,240,57.3,0.88,22,0,Zamora Chinchipe,Steven Donaldson,Hernandez,twalker@example.net
+8,91,82,0,0,35.6,0.587,68,0,Pastaza,Steven Stewart,Murphy,josephhendrix@example.org
+6,195,70,0,0,30.9,0.328,31,1,Cañar,Daniel Watson,Russell,ianlopez@example.com
+9,156,86,0,0,24.8,0.23,53,1,Sucumbíos,Douglas Taylor,Gates,acampbell@example.net
+0,93,60,0,0,35.3,0.263,25,0,Santa Elena,Danielle Cannon,Sims,anthony01@example.org
+3,121,52,0,0,36.0,0.127,25,1,Imbabura,Thomas Fisher,Kennedy,tiffanysims@example.com
+2,101,58,17,265,24.2,0.614,23,0,Azuay,Jessica Leblanc,Williams,charles81@example.org
+2,56,56,28,45,24.2,0.332,22,0,Chimborazo,Joshua Washington,Lara,daniel39@example.com
+0,162,76,36,0,49.6,0.364,26,1,Esmeraldas,Erik Rodriguez,Rosario,anita68@example.com
+0,95,64,39,105,44.6,0.366,22,0,Orellana,Ian Smith,James,dianehernandez@example.org
+4,125,80,0,0,32.3,0.536,27,1,El Oro,Kristina Mendoza,Hanson,jennifer41@example.net
+5,136,82,0,0,0.0,0.64,69,0,Carchi,Kayla Garcia,Suarez,vreynolds@example.com
+2,129,74,26,205,33.2,0.591,25,0,Napo,Zachary Burns,Gonzalez,qgarrison@example.net
+3,130,64,0,0,23.1,0.314,22,0,Sucumbíos,Stephen Graham,Johnson,wrightlori@example.com
+1,107,50,19,0,28.3,0.181,29,0,Sucumbíos,David Rodgers,Clark,william75@example.com
+1,140,74,26,180,24.1,0.828,23,0,Cañar,David Kennedy,Cortez,kristina87@example.org
+1,144,82,46,180,46.1,0.335,46,1,Pastaza,Michael Taylor,Hardy,hburgess@example.net
+8,107,80,0,0,24.6,0.856,34,0,Santa Elena,Derrick Jackson,Munoz,michellemoreno@example.net
+13,158,114,0,0,42.3,0.257,44,1,Azuay,Joshua Burgess,Martin,david92@example.com
+2,121,70,32,95,39.1,0.886,23,0,Cotopaxi,James Barnes,Hahn,manningtheresa@example.com
+7,129,68,49,125,38.5,0.439,43,1,Los Ríos,Dustin Taylor,Ross,jason34@example.com
+2,90,60,0,0,23.5,0.191,25,0,Cotopaxi,Edward Moran,Moore,jennifer75@example.com
+7,142,90,24,480,30.4,0.128,43,1,Los Ríos,Caleb Durham DVM,Briggs,jasonmcdowell@example.net
+3,169,74,19,125,29.9,0.268,31,1,Bolívar,Jennifer Schneider,Kane,pthomas@example.net
+0,99,0,0,0,25.0,0.253,22,0,Cotopaxi,Dale Bowers,Chambers,amandajacobs@example.org
+4,127,88,11,155,34.5,0.598,28,0,Cotopaxi,Christopher Wilson,Murphy,gregorymueller@example.com
+4,118,70,0,0,44.5,0.904,26,0,Napo,Amanda Davis,Williams,ywarren@example.net
+2,122,76,27,200,35.9,0.483,26,0,Esmeraldas,Stephen Knight,Middleton,kimberly63@example.net
+6,125,78,31,0,27.6,0.565,49,1,Zamora Chinchipe,Brittany Knight,Haley,jeffreycunningham@example.com
+1,168,88,29,0,35.0,0.905,52,1,Santo Domingo de los Tsáchilas,Wayne Rodriguez,Key,kimwright@example.net
+2,129,0,0,0,38.5,0.304,41,0,Pastaza,Cameron Figueroa,Webb,bairdjill@example.com
+4,110,76,20,100,28.4,0.118,27,0,Orellana,Deborah Lee,Lopez,maria56@example.org
+6,80,80,36,0,39.8,0.177,28,0,Esmeraldas,Mr. David Bowen,Robinson,evansjames@example.org
+10,115,0,0,0,0.0,0.261,30,1,Imbabura,Lori Bruce,Murphy,eryan@example.org
+2,127,46,21,335,34.4,0.176,22,0,Orellana,Linda Green,Sanchez,karenmitchell@example.com
+9,164,78,0,0,32.8,0.148,45,1,Galápagos,Crystal Turner,Martinez,rachel42@example.org
+2,93,64,32,160,38.0,0.674,23,1,El Oro,Heather Steele,Butler,jennifer89@example.com
+3,158,64,13,387,31.2,0.295,24,0,Cañar,Nancy Hatfield,Baldwin,dhunt@example.com
+5,126,78,27,22,29.6,0.439,40,0,Tungurahua,Julia Taylor,Barber,uhoward@example.com
+10,129,62,36,0,41.2,0.441,38,1,Cañar,Keith Pena,Gonzalez,vadams@example.com
+0,134,58,20,291,26.4,0.352,21,0,Bolívar,Stephen George,Powers,ericksonterri@example.net
+3,102,74,0,0,29.5,0.121,32,0,Carchi,Matthew Smith,Pittman,daniellestein@example.com
+7,187,50,33,392,33.9,0.826,34,1,Orellana,Cynthia Beck,Wong,gestrada@example.org
+3,173,78,39,185,33.8,0.97,31,1,Manabí,Mark Bailey,Torres,daviscaitlyn@example.net
+10,94,72,18,0,23.1,0.595,56,0,Imbabura,Belinda Barnett,Hernandez,andre47@example.org
+1,108,60,46,178,35.5,0.415,24,0,Tungurahua,Catherine Taylor,Peters,mary54@example.com
+5,97,76,27,0,35.6,0.378,52,1,Guayas,Joshua Bird,Marks,cynthiawhite@example.net
+4,83,86,19,0,29.3,0.317,34,0,Cotopaxi,Steven Dickerson,Turner,gcrawford@example.net
+1,114,66,36,200,38.1,0.289,21,0,Sucumbíos,Emily Williams,Hunter,hcastro@example.com
+1,149,68,29,127,29.3,0.349,42,1,El Oro,Justin Hernandez,Nelson,burnettdavid@example.org
+5,117,86,30,105,39.1,0.251,42,0,Zamora Chinchipe,Jamie Phillips,Wilson,gabrielleblack@example.org
+1,111,94,0,0,32.8,0.265,45,0,Orellana,Sarah Downs,Jordan,nromero@example.com
+4,112,78,40,0,39.4,0.236,38,0,Bolívar,Jenny Alvarado,Rice,michael65@example.org
+1,116,78,29,180,36.1,0.496,25,0,Cañar,Joel Mathews,Cooper,hansentheresa@example.com
+0,141,84,26,0,32.4,0.433,22,0,Bolívar,Traci Berry,Payne,fred97@example.net
+2,175,88,0,0,22.9,0.326,22,0,Cañar,Anne Hernandez,Adams,barbaralamb@example.org
+2,92,52,0,0,30.1,0.141,22,0,Sucumbíos,Philip Conner,Smith,prodriguez@example.net
+3,130,78,23,79,28.4,0.323,34,1,Loja,Christine Sullivan,Gilbert,owenslindsey@example.net
+8,120,86,0,0,28.4,0.259,22,1,Pichincha,Michael Hunt,Vazquez,acostacody@example.com
+2,174,88,37,120,44.5,0.646,24,1,Napo,Scott Arellano,Harris,clarkjennifer@example.com
+2,106,56,27,165,29.0,0.426,22,0,Pichincha,Samuel Orr,Castaneda,xanderson@example.org
+2,105,75,0,0,23.3,0.56,53,0,Los Ríos,Melanie Roberts,Jordan,millertammy@example.net
+4,95,60,32,0,35.4,0.284,28,0,Morona Santiago,Gabriela Wilson,Copeland,donmarshall@example.org
+0,126,86,27,120,27.4,0.515,21,0,Pichincha,Michelle Martin,Mcfarland,mezapriscilla@example.com
+8,65,72,23,0,32.0,0.6,42,0,Santa Elena,Mary Griffith,Campbell,mphelps@example.net
+2,99,60,17,160,36.6,0.453,21,0,Los Ríos,Michael Smith,Hood,rodrigueztyler@example.org
+1,102,74,0,0,39.5,0.293,42,1,Manabí,Eric Holloway,Young,phill@example.com
+11,120,80,37,150,42.3,0.785,48,1,Los Ríos,Leah Davis,Bell,audrey24@example.org
+3,102,44,20,94,30.8,0.4,26,0,Esmeraldas,Scott Gould,Drake,katherine78@example.net
+1,109,58,18,116,28.5,0.219,22,0,Sucumbíos,Brandi Vega,Davis,qbright@example.org
+9,140,94,0,0,32.7,0.734,45,1,Chimborazo,Rachel Fields,Hoffman,davidjonathan@example.org
+13,153,88,37,140,40.6,1.174,39,0,Pastaza,Emily Bennett,Spencer,martinezmary@example.org
+12,100,84,33,105,30.0,0.488,46,0,Guayas,Isabella Johnson,Wright,jacqueline77@example.net
+1,147,94,41,0,49.3,0.358,27,1,Manabí,Mr. Christopher Mcintyre MD,Mcbride,ashleyjones@example.com
+1,81,74,41,57,46.3,1.096,32,0,Cañar,Sally Ponce,Tucker,jmiddleton@example.org
+3,187,70,22,200,36.4,0.408,36,1,Manabí,Suzanne Price,Moreno,sarahschwartz@example.com
+6,162,62,0,0,24.3,0.178,50,1,Morona Santiago,Brittany Fox,Lucero,jramirez@example.net
+4,136,70,0,0,31.2,1.182,22,1,Santa Elena,Clifford Schneider,Henry,john50@example.org
+1,121,78,39,74,39.0,0.261,28,0,Manabí,Jennifer Norman,Cobb,mackenzieclark@example.org
+3,108,62,24,0,26.0,0.223,25,0,Chimborazo,Donald Ewing,Robles,amy37@example.com
+0,181,88,44,510,43.3,0.222,26,1,Sucumbíos,Erica Wells,Long,dhall@example.com
+8,154,78,32,0,32.4,0.443,45,1,Zamora Chinchipe,Luis Simpson,Haley,jcastaneda@example.com
+1,128,88,39,110,36.5,1.057,37,1,Santo Domingo de los Tsáchilas,Jennifer Paul,Foley,edwardsalejandro@example.net
+7,137,90,41,0,32.0,0.391,39,0,Pastaza,Willie Martinez,Mendoza,ggarcia@example.net
+0,123,72,0,0,36.3,0.258,52,1,Esmeraldas,Calvin Harris,Herring,andrecook@example.org
+1,106,76,0,0,37.5,0.197,26,0,Loja,Mark Jones,Hill,evansdeanna@example.org
+6,190,92,0,0,35.5,0.278,66,1,Pichincha,Patrick Bishop,Alexander,millerbenjamin@example.com
+2,88,58,26,16,28.4,0.766,22,0,Imbabura,Cindy Gardner,West,wmcdonald@example.net
+9,170,74,31,0,44.0,0.403,43,1,Tungurahua,Scott Coleman,Garcia,huertaelizabeth@example.com
+9,89,62,0,0,22.5,0.142,33,0,Galápagos,Priscilla Figueroa,Brown,ryan36@example.net
+10,101,76,48,180,32.9,0.171,63,0,Guayas,Katelyn Bailey,Olson,christina85@example.com
+2,122,70,27,0,36.8,0.34,27,0,Galápagos,Tiffany Roberson,Phillips,roger33@example.org
+5,121,72,23,112,26.2,0.245,30,0,Santa Elena,James Schneider,Jenkins,sarafry@example.org
+1,126,60,0,0,30.1,0.349,47,1,Guayas,David Norris,Wright,zkelley@example.net
+1,93,70,31,0,30.4,0.315,23,0,Santa Elena,Andrew Carter,Miller,davieskaren@example.org
